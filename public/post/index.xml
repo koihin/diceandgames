@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on D&amp;G</title>
+    <link>https://diceandgames.netlify.app/post/</link>
+    <description>Recent content in Articles on D&amp;G</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://diceandgames.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Return to Zverograd!</title>
+      <link>https://diceandgames.netlify.app/post/rtz/</link>
+      <pubDate>Tue, 24 Nov 2020 00:18:41 +0800</pubDate>
+      
+      <guid>https://diceandgames.netlify.app/post/rtz/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;style&gt;
+button {
+  background-color: #556b2f;  
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    font-family: Arial;
+    border-radius: 8px;
+}
+
+.horizontal-center {
+text-align: center;
+}
+
+
+&lt;/style&gt;
+&lt;/head&gt;
+
+
+&lt;div  class=&#34;horizontal-center&#34;&gt;
+&lt;div class=&#34;cta&#34;&gt;
+    &lt;a href=&#34;https://forms.gle/wt7365hzbr2FdAjm9&#34;&gt;
+    &lt;button&gt;
+         Sign Up Now!
+    &lt;/button&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
