@@ -6,7 +6,7 @@ description: "Play in our narrative campaign and stand a chance to win Alex!"
 tags: ["dust"]
 ---
 
-
+<body>
 {{< cta "Sign Up Now!" "https://forms.gle/wt7365hzbr2FdAjm9" >}}
 
  <!--more-->
@@ -33,3 +33,4 @@ So decide on the Bloc you will be representing and join us! A welcome pack will 
 {{< cta "Sign Up Now!" "https://forms.gle/wt7365hzbr2FdAjm9" >}}
 
 See you on the battlefield!
+</body>
