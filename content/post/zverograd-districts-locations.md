@@ -9,14 +9,17 @@ The map of Zverograd consists of twenty seven locations. These locations are sep
 
 *Join the [Return the Zverograd]({{< ref "post/rtz.md" >}}) campaign from any part of the world!*
 
+## Districts and Locations
+
 {{< figure src="/images/zverograd-map.webp" title="City of Zverograd, download for more detailed view.">}}
+
 
 * IMPORT/EXPORT DISTRICT
     * Airfield (1)
     * Harbor (2)
     * North Bridge (3)
     * Railway Yard (4)
-* CENTRAL CIT Y DISTRICT
+* CENTRAL CITY DISTRICT
     * Red Bridge (5)
     * Memorial Park (6)
     * Zverograd Central Station (7)
