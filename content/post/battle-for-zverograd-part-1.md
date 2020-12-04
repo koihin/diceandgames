@@ -76,4 +76,3 @@ Now facing attacks on multiple fronts, Zverograd’s embattled SSU forces find t
 *Part 2 will be posted soon.*
 
 *Join the [Return the Zverograd]({{< ref "post/rtz.md" >}}) campaign from any part of the world!*
- <!--more-->

@@ -138,8 +138,4 @@ Zverograd’s Old Town was constructed from lumber from nearby forests, and the 
 
 Little now remains of Old Town, let alone the entire Old Town District. The fires of Old Town’s destruction were visible for miles, and there were extensive casualties. The ash-covered grey waste is now one of the deadliest battlefields in Zverograd. Open lanes of fire stretch across a deadly no man’s land littered with obstacles hidden by the thick layer of ash, threatening to trip up squads of soldiers as they move from one meager scrap of cover to the next. Armored vehicles frequently accompany offensives in this area, to supply the troops with covering fire as they attempt to cross this wasteland and reach the monastery beyond.
 
-
-
-
 *Join the [Return the Zverograd]({{< ref "post/rtz.md" >}}) campaign from any part of the world!*
- <!--more-->
