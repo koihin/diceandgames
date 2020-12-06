@@ -5,7 +5,9 @@ featured_image: "/images/zverograd-map.webp"
 description: "What we are fighting over."
 tags: ["dust"]
 ---
-The map of Zverograd consists of twenty seven locations. These locations are separated into districts, and represent the battle locations in a Campaign game.
+In a Zverograd campaign, each battle will take place in a specific location. Below is a description of those locations.
+
+The map of Zverograd consists of twenty-seven locations. These locations are separated into districts. When planning terrain for your battle you can take inspiration from the description of the location. Not every location in Zverograd is an urban built=up area, you have open spaces and vegetation-filled areas too.
 
 *Join the [Return the Zverograd]({{< ref "post/rtz.md" >}}) campaign from any part of the world!*
 
