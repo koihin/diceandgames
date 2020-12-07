@@ -5,9 +5,9 @@ featured_image: "/images/zverograd-map.webp"
 description: "What we are fighting over."
 tags: ["dust"]
 ---
-In a Zverograd campaign, each battle will take place in a specific location. Below is a description of those locations.
+In a Zverograd campaign, each battle will take place in a specific location. when you submit a result for your battle you always have to include the location. Below is a description of those locations. The unleashing of the Mythos might have made some areas less accessible, the information will be made available as the campaign progresses.
 
-The map of Zverograd consists of twenty-seven locations. These locations are separated into districts. When planning terrain for your battle you can take inspiration from the description of the location. Not every location in Zverograd is an urban built=up area, you have open spaces and vegetation-filled areas too.
+The map of Zverograd consists of twenty-seven locations. These locations are separated into districts. When planning terrain for your battle you can take inspiration from the description of the location. Not every location in Zverograd is an urban built-up area, you have open spaces and vegetation-filled areas too. By the time of the Return to Zverograd campaign, buildings with surviving floors beyond the ground floor is almost non-existent.
 
 *Join the [Return the Zverograd]({{< ref "post/rtz.md" >}}) campaign from any part of the world!*
 
