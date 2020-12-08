@@ -30,7 +30,7 @@ Here's an example:
 
 Here, Lena Winter is the commander of a battle force based on the Sigrid Hero Archetype. Mechanically in the game, she is equivalent to Sigrid.
 
-Both your commander and your Core Platoon cannot be changed for the duration of the campaign. As the campaign progresses you can swap out individual units in your Core Platoon but you must always field your Core Platoon where possible. There might be special missions that changes this.
+Both your commander and your Core Platoon cannot be changed for the duration of the campaign. As the campaign progresses you can swap out individual units in your Core Platoon but you must always field your Core Platoon where possible. There might be special missions that change this.
 
 [Blutkreuz Elite Laser Grenadier Platoon]({{< ref "/post/elite-laser-grenadier-platoon.md" >}} "") is chosen as the Core Platoon. Here is what a sample 60 AP force lead by Lena looks like:
 ***
@@ -55,7 +55,11 @@ You can add a Hero Archetype to your force as a typical unit, just name the Hero
 
 Not every Hero serves as a Hero Archetype; they cannot be added to a force without permission, and they are unique in the campaign. If a player wants a specific Hero, he will need to request for that from their HQ, who must specifically assign and allow the Hero to be fielded by the player, on a mission by mission basis.
 
-Furthermore, certain units are not available for the campaign without it being assigned to you. By default all Aircrafts and Vehicles of class 6 and above cannot be simply added to a force, if you need a specific Unit, you will need to request it from HQ and get their explicit approval.
+## Units Restrictions
+Certain units are not available for the campaign without it being assigned to you. Other restrictions as follows:
+* All Aircrafts and Vehicles of class 6 and above cannot be simply added to a force, if you need a specific Unit, you will need to request it from HQ and get their explicit approval.
+* Infantry - maximum of 3 units per unit type unless required to form a legal platoon.
+* Vehicles - maximum of 2 units per unit type. Platoons that require more than 2 units of the same type cannot be fielded for this campaign.
 
 ## Size of Forces for Missions
 The RTZ campaign is designed to allow players with different army sizes to play, simply agree with your opponent on the Army Points total you will be playing at and go for it! For RTZ we have categorised them as follows:
@@ -66,6 +70,6 @@ Skirmish: 40-60 AP
 Battle: 80-100 AP  
 Big Battle: 120 AP and above
 
-At the start of the RTZ campaign, forces are starting to trickle back to the doomed city after the unleashing of the Mythos, Skirmish would be the most common mission size.
+At the start of the RTZ campaign, forces are starting to trickle back to the doomed city after the unleashing of the Mythos, Skirmish would be the most common mission size. We recommend you start with Skirmish, it is a lot of fun and great way to start off the 6 weeks campaign.
 
 Information for the Hero Archetype and Platoons will be on the individual Bloc pages for the campaign. Look out for them online soon!

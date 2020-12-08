@@ -6,14 +6,13 @@ description: "Play in our narrative campaign and stand a chance to win Alex!"
 tags: ["dust"]
 ---
 
-<body>
 {{< cta "Sign Up Now!" "https://forms.gle/wt7365hzbr2FdAjm9" >}}
 
  <!--more-->
 
-**October 1947, the doomed city of Zverograd...**
+**September 1947, the doomed city of Zverograd...**
 
-On the banks of the Caspian Sea, the battle for Zverograd continues unabated. Something stirs beneath Zverograd and the dreaded Mythos creatures appear seemingly out of nowhere to wreck havoc, terror and chaos. The Imperial Japanese Navy managed to infiltrate two company worth of troops into the city with an agenda of their own. The SSU, Allies and Axis bring fresh reinforcements, still intent on taking the city at all cost.
+On the banks of the Caspian Sea, the battle for Zverograd continues unabated. Something has arisen from beneath Zverograd and the dreaded Mythos creatures appear seemingly out of nowhere to wreck havoc, terror and chaos. The Imperial Japanese Navy managed to infiltrate two company worth of troops into the city with an agenda of their own. The SSU, Allies and Axis bring fresh reinforcements, still intent on taking the city at all cost.
 
 Help decide what happens over six weeks in our Return to Zverograd narrative campaign! Arrange your own games and play anywhere!
 
