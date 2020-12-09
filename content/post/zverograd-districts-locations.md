@@ -1,7 +1,7 @@
 ---
 title: "Zverograd, Districts and Locations"
 date: 2020-10-10T00:18:41+08:00
-featured_image: "/images/zverograd-map.webp"
+featured_image: "/images/map-zverograd.png"
 description: "What we are fighting over."
 tags: ["dust"]
 ---
@@ -13,7 +13,7 @@ The map of Zverograd consists of twenty-seven locations. These locations are sep
 
 ## Districts and Locations
 
-{{< figure src="/images/zverograd-map.webp" title="City of Zverograd, download for more detailed view.">}}
+{{< figure src="/images/map-zverograd.png" title="City of Zverograd, download for more detailed view.">}}
 
 
 * IMPORT/EXPORT DISTRICT

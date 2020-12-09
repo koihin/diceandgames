@@ -1,18 +1,18 @@
 ---
 title: "Return to Zverograd!"
 date: 2020-11-24T00:18:41+08:00
-featured_image: "/images/Raid-over-Zverograd-web.jpg"
+featured_image: "/images/steel-guards-zverograd.png"
 description: "Play in our narrative campaign and stand a chance to win Alex!"
 tags: ["dust"]
 ---
+{{< figure src="/images/koshka.jpg" link="https://forms.gle/wt7365hzbr2FdAjm9">}}
+**September 1947, the doomed city of Zverograd...**
+<!--more-->
+On the banks of the Caspian Sea, the battle for Zverograd continues unabated. Something has arisen from beneath Zverograd and the dreaded Mythos creatures wreck havoc, terror and chaos. The Imperial Japanese Navy infiltrated two company worth of troops into the city with an agenda of their own. The SSU, Allies and Axis bring fresh reinforcements, still intent on taking the city at all cost... or are they?
 
 {{< cta "Sign Up Now!" "https://forms.gle/wt7365hzbr2FdAjm9" >}}
 
  <!--more-->
-
-**September 1947, the doomed city of Zverograd...**
-
-On the banks of the Caspian Sea, the battle for Zverograd continues unabated. Something has arisen from beneath Zverograd and the dreaded Mythos creatures appear seemingly out of nowhere to wreck havoc, terror and chaos. The Imperial Japanese Navy managed to infiltrate two company worth of troops into the city with an agenda of their own. The SSU, Allies and Axis bring fresh reinforcements, still intent on taking the city at all cost.
 
 Help decide what happens over six weeks in our Return to Zverograd narrative campaign! Arrange your own games and play anywhere!
 

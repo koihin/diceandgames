@@ -40,10 +40,10 @@ What follows is a reference of how the various weapon categories interact with S
 Negate all Saves except Evade and Improved Evade Save.
 
 **Sniper weapons**
-Negate all Saves except Evade and Improved Evade Save
+Negate all Saves except Evade and Improved Evade Save.
 
 **Phaser Weapons**
-Negate Cover, Structural and Improved Structural Save.
+Negate Evade,Cover, Structural and Improved Structural Save. Reduced Improved Evade Save.
 
 **Flame Weapons** (including Flame Burst)
 Negate Cover, Infantry, Structural and Improved Structural Save.

@@ -19,7 +19,7 @@ Heavy Ranger Attack Squad or Heavy Ranger Tank-Hunter Squad
  Ranger Weapon Squad or Ranger Heavy Weapon Squad or Ranger Recon Squad
 
 **Support Units (Optional)**  
-Any units under Combat Unit 1,Combat Unit 2, or Combat Unit 3
+Any units under Combat Unit 1, Combat Unit 2, or Combat Unit 3
 
 If the Allied Ranger Units form the military backbone of ASOCOM, the Heavy Rangers are the steel punch that delivers the killing blow. The long drawn out fighting in Zverograd has lead ASOCOM to develop a new platoon structure that mixes Ranger and Heavy Ranger units into an even deadlier combination.
 
