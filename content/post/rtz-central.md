@@ -9,11 +9,11 @@ Welcome to RTZ campaign central, where we get you into the game and update you o
 
 ## Map of Zverograd - Round 0
 {{< figure src="/images/zverograd-week-0.png" link="/images/zverograd-week-0.png">}}
-Here is the most up-to-date map on the current location. The bloc symbol shows who controls each location. If a location does not have a symbol it means no bloc dominates the location yet.
+Here is the most up-to-date map on the current situation. The bloc symbol shows who controls each location. If a location does not have a symbol it means no bloc dominates the location yet.
 
 Read about the [locations]({{< ref "/post/zverograd-districts-locations" >}}) you will be fighting over.
 
-You can see the previous weeks as they become available.
+You can see the previous rounds as they become available.
 
 ## Round 1
 Information for Round 1 and changes to the campaign. Page will be available soon.
@@ -41,5 +41,14 @@ We setup a [discord](https://discord.gg/EwztDyYtct) to allow folks to get into c
 ## Frequently Asked Questions
 We will be posting and updating this FAQ as we get the questions!
 
-### Q1. I am not familiar with background of Zverograd/I want a refresher/Zverograd sounds amazing, where can I read more about it?
+#### Q1. I am not familiar with background of Zverograd/I want a refresher/Zverograd sounds amazing, where can I read more about it?
 Ans: Start [here]({{< ref "/post/battle-for-zverograd-part-1" >}}) with this short series on the history of the doomed city till start of campaign.
+
+#### Q2. Is RTZ for the gridded version of Dust 1947? I prefer to play freeform, is this allowed?
+Ans: Yes, of course! gridded or free-form, whichever you prefer! We support both modes of play. In fact if you wish to use alternative rulesets like Dust Warfare as well, please do! You will need to spend more effort to make the missions compatible and more importantly, all players have a good time.
+
+#### Q3. Most of the players are in XYZ country, how can I possibly take part?
+Ans: The campaign doesn't require you to play with any specific player, only the players you can reach. All you need is at least 1 player you can contact and you are good to go!
+
+#### Q4. I have some ideas for better mission scenarios, can I play those?
+Ans: Yes of course! Even better, contact us with your scenarios and ideas and we will see if we can fit them into later rounds of the campaign!  
