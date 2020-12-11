@@ -12,6 +12,9 @@ tags: ["dust","rtz","zverograd"]
 
 Mi-Go Assault and Attack Squad gain [Structural Save]({{< ref "/post/dust-unified-saves" >}}).
 
+## The Avatars
+Unlike the other Blocs, the Avatars are summoned by eldritch (ancient technology) means and the Vehicles restrictions do not apply to them. But beware... the dimensional energies are unstable and they might phase out when you least expect or worse...
+
 ## Mythos Will of Cthulhu Platoon
 *Many are those who seek to join us, they shall go forth and prove their faith by a baptism of fire!*
 
