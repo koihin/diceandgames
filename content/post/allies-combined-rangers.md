@@ -27,6 +27,6 @@ If the Allied Ranger Units form the military backbone of ASOCOM, the Heavy Range
 
 The Rangers make lightning attacks and occupy strategic ground while their support troops follow up, trapping enemy forces between the 'hammer' and the 'anvil'.
 
-All Ranger and Heavy Ranger Units in or supporting the Platoon gain Scout, if the unit already has Scout it gains Defensive Tactics instead.
+All Ranger and Heavy Ranger Units in or supporting the Platoon gain Scout, if the unit already has Scout it gains Defensive Tactics for the first Game Turn only instead.
 
 In addition, if this platoon is deployed in an Allies Bloc army (no faction troops), you may add a Ranger Sniper Squad OR a Ranger Observer Squad as a support for your platoon for free.

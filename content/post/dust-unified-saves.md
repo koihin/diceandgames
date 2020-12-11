@@ -12,6 +12,8 @@ title: "Dust Unified Saves Table"
 
 A Save is a target unit's reaction to Hits. Unless otherwise noted, Saves of the same type do not stack; example, you cannot get Evade and Improved Evade Save. For Infantry units, Cover and Infantry Saves are mutually exclusive unless otherwise stated.
 
+When a weapon negates a type of Save, ignore the Save entirely, the Hit goes through. When a weapon reduces a type of Save, it saves only on a [BLOC].
+
 Here are the six types of Saves in Dust 1947 (Structural and Improved Structural Save are campaign specific).
 
 **Evade Save**
@@ -43,7 +45,7 @@ Negate all Saves except Evade and Improved Evade Save.
 Negate all Saves except Evade and Improved Evade Save.
 
 **Phaser Weapons**
-Negate Evade,Cover, Structural and Improved Structural Save. Reduced Improved Evade Save.
+Negate Evade, Cover and Structural. Reduced Improved Evade Save and Improved Structural Save.
 
 **Flame Weapons** (including Flame Burst)
 Negate Cover, Infantry, Structural and Improved Structural Save.
@@ -62,6 +64,6 @@ All units within a Smoke Screen gain Evade Save (instead of Cover Save).
 
 
 
-A note on phasers, this is how phasers are currently described as working in the Dust 1947 universe, hence why phasers negates Structural and Improved Structural Saves:
+A note on phasers, this is how phasers are currently described as working in the Dust 1947 universe, hence why phasers negates Structural and reduces Improved Structural Saves:
 
-*Allied research into VK-powered Weapons started later than that of the Axis and took a very different path. Allied researchers developed a method of generating a coherent ball of chaotic energy that could be directed at a Target. It is impossible to build armour capable of stopping a full-power Phaser Weapon. Even a concrete wall just melts away, providing no Cover to a Target Unit attempting to use it for shelter.*
+*Allied research into VK-powered Weapons started later than that of the Axis and took a very different path. Allied researchers developed a method of generating a coherent ball of chaotic energy that could be directed at a Target. It is impossible to build armour capable of stopping a full-power Phaser Weapon. Even a concrete wall just melts away, providing no cover to a Target Unit attempting to use it for shelter.*
