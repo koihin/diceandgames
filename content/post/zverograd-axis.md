@@ -1,9 +1,9 @@
 ---
 title: "Zverograd - Axis Forces"
 date: 2020-10-22T00:18:41+08:00
-featured_image: "/images/axis-airfield.png"
+featured_image: "/images/Alliesarmy.png"
 description: "Building a force for your Axis army."
-tags: ["dust","rtz","zverograd"]
+tags: ["dust","rtz","zverograd","allies"]
 ---
 
 ## Known Axis Forces present at Zverograd at the end of August, 1947
@@ -41,20 +41,20 @@ All platoons are available if you can legally build them. You can have multiple 
 
 [New Elite Laser Grenadier Platoon.]({{< ref "/post/elite-laser-grenadier-platoon" >}})
 
-**Axis Sturmgrenadier Platoon Alternative Platoon Advantage** - The Platoon Leader of may perform a Get Moving You Bunch of Monkeys Special Action targeting a Sturmgrenadier Unit in or supporting the Platoon as a free third Action each time it Activates, it succeeds on a [BLOC] and [TARGET] symbol.
+**Axis Sturmgrenadier Platoon Alternative Platoon Advantage** - The Platoon Leader may perform a Get Moving You Bunch of Monkeys Special Action targeting a Sturmgrenadier Unit in or supporting the Platoon as a free third Action each time it Activates, it succeeds on a [BLOC] and [TARGET] symbol.
 
 ## Hero Archetypes
 Here is the list of Heroes you may choose as your commander (if it is the command unit of your Core Platoon) or add to your army list. Remember to rename them for the stories! If a Hero is not on the list, you would have to request for it from HQ.
 
-Christoph
-Grenadier X
-Kurt
-Lara
-Manfred
-Raketenmann
-Rolf
-Sigrid
-Stefan
-Tina And Hyäne
-Totenmeister
-Wolfgang
+- Christoph
+- Grenadier X
+- Kurt
+- Lara
+- Manfred
+- Raketenmann
+- Rolf
+- Sigrid
+- Stefan
+- Tina And Hyäne
+- Totenmeister
+- Wolfgang
