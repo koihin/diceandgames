@@ -2,7 +2,7 @@
 title: "Zverograd - IJN Forces"
 date: 2020-10-25T00:18:41+08:00
 featured_image: "/images/ijn-force.jpg"
-description: "Building a force for your SSU army."
+description: "Building a force for your IJN army."
 tags: ["dust","rtz","zverograd"]
 ---
 ## Known IJN Forces present at Zverograd at the end of August, 1947
