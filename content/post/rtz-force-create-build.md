@@ -1,6 +1,6 @@
 ---
 title: "RTZ: Building a Force for the Campaign"
-date: 2020-10-11T00:18:41+08:00
+date: 2020-10-30T00:18:41+08:00
 featured_image: "/images/sigrid-von-thaler.png"
 description: "Everything begins with your commander."
 tags: ["dust","rtz","zverograd"]
@@ -32,7 +32,7 @@ Here, Lena Winter is the commander of a battle force based on the Sigrid Hero Ar
 
 Both your commander and your Core Platoon cannot be changed for the duration of the campaign. As the campaign progresses you can swap out individual units in your Core Platoon but you must always field your Core Platoon where possible. There might be special missions that change this.
 
-[Blutkreuz Elite Laser Grenadier Platoon]({{< ref "/post/elite-laser-grenadier-platoon.md" >}} "") is chosen as the Core Platoon. Here is what a sample 60 AP force lead by Lena looks like:
+[Blutkreuz Elite Laser Grenadier Platoon]({{< ref "/post/elite-laser-grenadier-platoon" >}}) is chosen as the Core Platoon. Here is what a sample 60 AP force lead by Lena looks like:
 ***
 **Lena Winter: Special Forces**    
 Axis, Blutkreuz Korps  
@@ -72,4 +72,11 @@ Big Battle: 120 AP and above
 
 At the start of the RTZ campaign, forces are starting to trickle back to the doomed city after the unleashing of the Mythos, Skirmish would be the most common mission size. We recommend you start with Skirmish, it is a lot of fun and great way to start off the 6 weeks campaign.
 
-Information for the Hero Archetype and Platoons will be on the individual Bloc pages for the campaign. Look out for them online soon!
+Information for the Hero Archetype and Platoons will be on the individual Bloc pages for the campaign. As follows:
+
+- [Axis]({{< ref "/post/zverograd-axis" >}})
+- [Allies]({{< ref "/post/zverograd-allies" >}})
+- [SSU]({{< ref "/post/zverograd-ssu" >}})
+- [IJN]({{< ref "/post/zverograd-ijn" >}})
+- [Mythos]({{< ref "/post/zverograd-mythos" >}})
+- [Mercenaries]({{< ref "/post/zverograd-mercs" >}})

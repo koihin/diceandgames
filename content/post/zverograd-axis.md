@@ -3,7 +3,7 @@ title: "Zverograd - Axis Forces"
 date: 2020-10-22T00:18:41+08:00
 featured_image: "/images/Alliesarmy.png"
 description: "Building a force for your Axis army."
-tags: ["dust","rtz","zverograd","allies"]
+tags: ["dust","rtz","zverograd","axis"]
 ---
 
 ## Known Axis Forces present at Zverograd at the end of August, 1947
@@ -26,7 +26,8 @@ All Heavy Grenadiers, including Laser Grenadiers in powered armour gain [Structu
 
 They also gain Large Combat Knife which does 2/1 versus Infantry class 1 and 2, and 1/1 against 3 and 4. No effects on Vehicles or Aircrafts (obviously).
 
-
+## Zombies
+Replace the Zombies Infantry Save with [Improved Structural Save]({{< ref "/post/dust-unified-saves" >}}).
 
 ## Gorillas
 *The Axis sentient Gorillas have learned to embrace their full primal ferocity while retaining their ability to make tactical decisions.*
