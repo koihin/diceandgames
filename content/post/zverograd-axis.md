@@ -20,7 +20,7 @@ Smaller than division level forces may not be tracked, an example would be force
 Normal army list building rules applies for all factions unless otherwise stated.
 
 ## Improved Powered Armour
-*Axis engineers have improved on the heavy VK powered armour to improve the survivability of the suits.*
+*Axis engineers have improved on the heavy VK powered armour to increased the survivability of the wearers.*
 
 All Heavy Grenadiers, including Laser Grenadiers in powered armour gain [Structural Save]({{< ref "/post/dust-unified-saves" >}}).
 
@@ -49,7 +49,7 @@ The following two modifications apply to Axis Panzerkamplaufers walkers (class 4
 
 **Hit them Harder:** Applies to primary weapon of range 14 or greater and is not a Special Weapon (Artillery, Laser, etc). When the weapon's target is a Vehicle (not Aircraft or Infantry) and is at half or lower than weapon's stated range, gain **Penetrating**. Applies to this weapon only.
 
-(Penetrating: When target is at half or lower than the stated Range of this weapon, treat target as one armour class lower.)
+(Penetrating: treat target as one armour class lower.)
 
 ## Platoons
 All platoons are available if you can legally build them. You can have multiple platoons in your force (but must always include your Core Platoon).
