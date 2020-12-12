@@ -5,7 +5,7 @@ featured_image: "/images/zverograd2.jpg"
 description: "Part of a series on the Battle for Zverograd."
 tags: ["dust","zverograd"]
 ---
-Read [Part 1]({{< ref "/post/battle-for-zverograd-part-1" >}})of the Battle for Zverograd if you haven't.
+Read [Part 1]({{< ref "/post/battle-for-zverograd-part-1" >}})of the Battle for Zverograd.
 ## Winter Child
 {{<figure src="/images/winter-child-vs-zombies.jpg">}}
 For years, Earth’s major powers have been working on different ways to create superhuman soldiers. Many of these research programs began long before the war, but
