@@ -21,7 +21,7 @@ Smaller than division level forces may not be tracked. When creating the backsto
 {{<figure src="/images/kv47-array.png">}}
 *With the success of the KV-47 series of nimble walkers, the need to standardise production became essential as VK is a highly fought over resource within the different factions of the SSU.*
 
-With the exception of Koshka's Grand'ma, all KV-47s (including tropical variants) now have 5 Health instead of 6.
+With the exception of Koshka's Grand'ma, all SSU KV-47s (including tropical variants) now have 5 Health instead of 6.
 
 ## Steel Guards
 Instead of the awkward wording of their Save (an Infantry Save but with exceptions), replace the Steel Guards Infantry Save with an [Improved Structural Save]({{< ref "/post/dust-unified-saves" >}}). It is almost identical in how it works.

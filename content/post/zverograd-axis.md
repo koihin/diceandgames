@@ -1,6 +1,6 @@
 ---
 title: "Zverograd - Axis Forces"
-date: 2020-10-22T00:18:41+08:00
+date: 2020-10-27T00:18:41+08:00
 featured_image: "/images/Alliesarmy.png"
 description: "Building a force for your Axis army."
 tags: ["dust","rtz","zverograd","axis"]
@@ -50,6 +50,9 @@ The following two modifications apply to Axis Panzerkamplaufers walkers (class 4
 **Hit them Harder:** Applies to primary weapon of range 14 or greater and is not a Special Weapon (Artillery, Laser, etc). When the weapon's target is a Vehicle (not Aircraft or Infantry) and is at half or lower than weapon's stated range, gain **Penetrating**. Applies to this weapon only.
 
 (Penetrating: treat target as one armour class lower.)
+
+## Sigrid Hero Archetype and the Jagdluther
+Sigrid may pilot a normal Jagdluther (15AP) and benefit from her skills with the primary guns.
 
 ## Platoons
 All platoons are available if you can legally build them. You can have multiple platoons in your force (but must always include your Core Platoon).

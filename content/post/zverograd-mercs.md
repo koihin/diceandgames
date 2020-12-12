@@ -10,7 +10,7 @@ Currently there are no mercenary companies operating in Zverograd that is not al
 A mercenary force (100%) operating in Zverograd gets a 15% faction bonus, instead of 10%, rounding up any fraction.
 
 ## KV-47 Walkers (all variants)
-Due to standardisation, all KV-47 (including tropical versions) have 5 Health.
+Due to standardisation, all Mercs KV-47 (including tropical versions) have 5 Health.
 
 ## Platoons
 **Sister Luisa's Mercenary Platoon - Go Get'em Girls!** has an alternative Platoon Advantage. All mercenary units in or supporting this platoon gain Brave.

@@ -1,6 +1,6 @@
 ---
 title: "Return to Zverograd Campaign Central"
-date: 2020-10-23T00:18:41+08:00
+date: 2020-11-20T00:18:41+08:00
 featured_image: "/images/Cityfight.png"
 description: "Your pit-stop for all your RTZ goodness!"
 tags: ["dust","rtz","zverograd"]
@@ -52,3 +52,6 @@ Ans: The campaign doesn't require you to play with any specific player, only the
 
 #### Q4. I have some ideas for better mission scenarios, can I play those?
 Ans: Yes of course! Even better, contact us with your scenarios and ideas and we will see if we can fit them into later rounds of the campaign!  
+
+#### Q5. Can I play multiple games and submit them separately each campaign round?
+Ans: Yes, provided they are with different commanders. Does this mean you can't play mulitple games with the same commander each week? Yes, you can play multiple linked games with the same player but you submit it as one result, giving your final VP tally across the battles. For example, you might want to play 3 Skirmish size game with a friend in an evening, you won the first game with 10 VPs, lost the second with 6 VPs, and won the last again with 8 VPs, you submit your final result as 10+6+8=24VPs. You indicate you are the Defender or Attacker base on your final battle.
