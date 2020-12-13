@@ -16,7 +16,15 @@ When building a force for RTZ, instead of a 10% faction bonus, you get a 5% fact
 Here is the list of Heroes you may choose as your commander (if it is the command unit of your Core Platoon) or add to your army list. Remember to rename them for the stories! If a Hero is not on the list, you would have to request for it from HQ.
 
 - Akiko
+- Fumiko*
 - Hitomi
 - Kaori
 - Shadow Of Death
 - Yukiko
+
+*Fumiko's Tactician - how many Pass Tokens you get from the skill depends on the size of battle.
+
+**Patrol size** - Nothing
+** Skirmish sizes - 1 Pass Token
+** Battle Size. - 2 Pass Token
+*** Big Battles - 3 Pass Token
