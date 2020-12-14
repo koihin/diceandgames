@@ -53,7 +53,7 @@ Zverograd, despite being a city, has very varied terrain. Some places like Memor
 
 Fortress Zverograd is aptly named, the various blocs have dug-in and built reinforced structures that makes it difficult to dislodge them.
 
-Here are some additional terrain types you add to your game:
+Here are some additional terrain types you add to your game, and where applicable can substitute them for ammo crates and tank traps:
 
 ### Barbed Wires
 *Cheap and effective, barbed wire can considerably slows down the enemy infantry advance towards defensive positions.*
@@ -86,13 +86,11 @@ The Defender in a mission might be given the option to add an Strongpoint (10AP)
 
 - When deploying a Strongpoint/Bunker it must be the first terrain piece placed and be within range 4 of the deployment table edge. The back of the strongpoint and bunker must be accessible to infantry units by normal movement, thus can never be placed right up against the table edge.
 - The Infantry/Cover Save re-rolls from the rulebook are replaced by Structural Save and Improved Structural Save for Strongpoints and Bunkers respectively. To be clear, you apply Infantry/Cover Saves followed by the Structural Saves.
-- It is difficult for most weapons to fire into the front slit of the bunker as it is so narrow, you can only draw LoS to them if you are within Range 3 and their front arc. *Railguns, Teslas and Phasers are exempt from this rule.*
+- It is difficult for most weapons to fire into the front slit of the bunker as it is so narrow, you can only draw LoS to them if you are within Range 3 and their front arc. **Railguns, Teslas and Phasers are exempt from this rule.**
 - It is difficult to engage in Close Combat through the front slit of a Bunker. Only C range weapon with a [Blast] symbol as its stats can engage in CC through the front.
 
-
-
 ## Height Advantage
-*This replaces the Height Advantage rule from the rulebook and FAQ.*
+**This replaces the Height Advantage rule from the rulebook and FAQ.**
 If you are Higher than your target unit by Range 1 or more, your target must re-roll Infantry and Cover Saves (Structural Saves are not affected). If you are Lower by Range 1 or more, your target gains Cover Save.
 
 ## Height Difference and Close Combat
