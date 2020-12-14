@@ -70,7 +70,7 @@ Here are some additional terrain types you add to your game, and where applicabl
 *Cheap and effective, barbed wire can considerably slows down the enemy infantry advance towards defensive positions.*
 {{<figure src="/images/barbed-wire.png">}}
 
-- When Infantry Units of class 1 and 2 cross or enter a barbed wire square, each square of barbed wire costs an additional movement point. In addition, each time it enters a barbed square, roll 1 die. On a [TARGET] the unit is Pinned (if applicable) and must stop movement immediately.
+- When Infantry Units of class 1 and 2 cross or enter a barbed wire square, each square of barbed wire costs an additional movement point. In addition, each time it enters a barbed square, roll 1 die. On a [TARGET] the unit is Suppressed (if applicable) and must stop movement immediately.
 - Infantry Units of class 3 and 4 are unaffected by the barbed wires. When entering a barbed wire square, roll a die. on a [TARGET] the unit destroys the barbed wire.
 - Wheeled Vehicles when entering a barbed wire square, roll 1 die. On a [TARGET] the wires gets entangled with the Vehicle and it must stop movement immediately. The barbed wire is destroyed and the Vehicle can move normally when it next activates.
 - All other Vehicles destroys Barbed Wires when they enter and are otherwise unaffected.
