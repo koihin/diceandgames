@@ -86,8 +86,10 @@ The Defender in a mission might be given the option to add an Strongpoint (10AP)
 
 - When deploying a Strongpoint/Bunker it must be the first terrain piece placed and be within range 4 of the deployment table edge. The back of the strongpoint and bunker must be accessible to infantry units by normal movement, thus can never be placed right up against the table edge.
 - The Infantry/Cover Save re-rolls from the rulebook are replaced by Structural Save and Improved Structural Save for Strongpoints and Bunkers respectively. To be clear, you apply Infantry/Cover Saves followed by the Structural Saves.
-- It is difficult to see units in a bunker from the front slit, you can only draw LoS to them if you are within Range 3 and their front arc.
+- It is difficult for most weapons to fire into the front slit of the bunker as it is so narrow, you can only draw LoS to them if you are within Range 3 and their front arc. *Railguns, Teslas and Phasers are exempt from this rule.*
 - It is difficult to engage in Close Combat through the front slit of a Bunker. Only C range weapon with a [Blast] symbol as its stats can engage in CC through the front.
+
+
 
 ## Height Advantage
 *This replaces the Height Advantage rule from the rulebook and FAQ.*
