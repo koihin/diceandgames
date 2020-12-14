@@ -7,6 +7,15 @@ tags: ["dust","rtz","zverograd","rules"]
 ---
 Here are the special rules for the campaign. We strongly encourage their use as we believe it will make your games more fun and exciting. However, it is your game, feel free to ignore any or all of them, in consultation with your opponent. Always remember, a great game experience for both you and your opponnent is the primary goal!
 
+* [Unified Saves Rules](#unified-saves-rules)
+* [Scout](#scout)
+* [Pass Tokens](#pass-tokens)
+* [Damage Resilient](#damage-resilient)
+* [Suppression rules](#suppression-rules)
+* [Initiative](#initiative)
+* [Terrain and Fortifications](#terrain-and-fortifications)
+
+
 ## Unified Saves Rules
 Please refer to the [Unified Saves Rules]({{< ref "/post/dust-unified-saves" >}}) for how Saves work in this campaign. For example, Steel Guards can now benefit from Smoke as it confers an Evade Save rather than a Cover Save.
 
@@ -21,17 +30,19 @@ In conjunction with the rules on Pass Tokens, the following rules applies as wel
 
 2. When a Unit activates another unit (such as when an observer unit activates an artillery unit to Attack), player receives 1 Pass token. Does not apply to reactivations.
 
-## Damage Resilient against Close Combat Attacks
+## Damage Resilient
 All Vehicles (all classes) and Infantry class 3 and 4 gain Damage Resilient against CC Attacks.
 
-## New Suppression rules
-*this replaces Suppression in the rulebook and affects Stunned in a small way.*
+If a Hit does [DEATH] damage, Damage Resilient only applies to half the damage rounded up. For example, a KV-47 is Hit by a weapon that does [DEATH], instead of rolling for Damage Resilient against all 5 damage, it rolls only 3 (half rounded up).
+
+## Suppression Rules
+**this replaces Suppression in the rulebook and affects Stunned in a small way.**
 
 A Unit can be in one of 3 Suppression states, the default is None (no suppression), Suppressed, and Pinned. Only Infantry class 1 and 2 can have a Pinned state, all other units including all Vehicles and Aircrafts ignore a Pinned result.
 
 When a target unit is hit, roll 2 dice. For each [BLOC] rolled, move up to the next Suppression state, i.e. None to Suppressed, Suppressed to Pinned.
 
-Rallying for a unit is conducted as usual. Roll 2 dice at the start of Activation. For each [BLOC] rolled, lower the Unit's Suppression state by one, e.g. Pinned becomes Suppressed, Suppressed becomes None.
+Rallying for a unit is conducted as usual. Roll 2 dice at the start of a unit's Activation. For each [BLOC] rolled, lower the Unit's Suppression state by one, e.g. Pinned becomes Suppressed, Suppressed becomes None.
 
 In addition when Rallying, if 2 [BLOC] are rolled, Stunned is removed as well, before the first Action of the unit.
 
@@ -41,7 +52,7 @@ All units can attempt to Rally as a Special Action.
 
 Some weapons may give an automatic Suppressed state if hit by it. Apply the Suppressed state before rolling to Suppress.
 
-##Initiative
+## Initiative
 Before the first Game Turn roll 3 dice for Initiative as usual. If a player has less Units (count Heroes joined to a Unit as 1) than his opponent, he rolls an extra die. The side that rolls the most [BLOC] wins Initiative. The Attacker of the scenario/mission breaks ties.
 
 The winner of the Initiative decides who goes first in the first Game Turn. Keep the same order for Turn 2.
