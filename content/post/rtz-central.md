@@ -21,6 +21,8 @@ Information for Round 1 and changes to the campaign. Page will be available soon
 ## Missions
 All verified results submitted by players are presented here in different tabular format. See who is the commander that has gone on the most missions, who has the most wins (if you are into that sort of thing), who has the most medals, etc.
 
+Most Missions will happen at a specific location in Zverograd. Refer to the current map as above. Choose a location accessible to both you and your opponent. Defender is determined by who currently controls the location. Otherwise determine it randomly. For ideas on how to setup a scenario for a location we have some ideas for you but you can always create your own based on the location you are fighting over! Sportsmanship should always prevail, when in doubt give the advantage to your opponent rather than yourself.
+
 ## Getting started with RTZ
 First step is to [sign up](https://forms.gle/qng9wfbqeB86rQwL8)! It is perfectly fine that the campaign is underway, you don't have to play every Round! Play as much (or little) as you wish! Round 1 starts 15 December 2020 and goes on for six weeks/rounds!
 
@@ -33,6 +35,9 @@ You need an RTZ legal force to go on missions. [Find out here.]({{< ref "/post/r
 3. Play the mission, note down the result.
 4. Submit the mission result (instructions will be given).
 5. Write a kick-ass battle report with photos and submit to the COs (optional).
+
+## Special Rules for RTZ
+Most of the [special rules]({{< ref "/post/rtz-special-rules" >}}) here have been play-tested over a long period and we believe they will enhance your enjoyment of the game, we hope you enjoy them!
 
 
 ## Join our discord for role-play and discussion about the campaign
