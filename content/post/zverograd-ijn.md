@@ -24,7 +24,7 @@ Here is the list of Heroes you may choose as your commander (if it is the comman
 
 *Fumiko's Tactician Skill - how many Pass Tokens you get from the skill depends on the size of battle. For fluff reasons, your Hero will not be at Fumiko's level. But a Kaigun-shōsa at best.
 
-**Patrol size** - Nothing
-** Skirmish sizes - 1 Pass Token
-** Battle Size. - 2 Pass Token
-*** Big Battles - 3 Pass Token
+**Patrol size** - Nothing  
+**Skirmish sizes** - 1 Pass Token  
+**Battle Size** - 2 Pass Token  
+**Big Battles** - 3 Pass Token  
