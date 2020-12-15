@@ -18,12 +18,12 @@ This scenario is suitable for Skirmish to Battle size games (40 to 100) with 60-
 ### Deployment
 Attacker come onto the board from the blue edge. Defender come onto the board from the red edge. Standard deployment rules apply (but can be modified as required by the story).
 
-### terrain
+### Terrain
 The board has 4 main buildings as their main features. The 2 Objectives can be either open space or terrain pieces that provide Cover but should not block Line of Sight nor prevent Vehicles from entering or passing through.
 
 The 2 Objectives are placed in the centre column, each 5 squares away from the deployment edge as in the diagram above.
 
-Alternative: To make it easier for the Defender, move both Objectives one square straight down nearer to the Defender deployment edge.
+**Alternative**: To make it easier for the Defender, move both Objectives one square straight down nearer to the Defender deployment edge.
 
 In addition as part of Deployment step, after Initiative, starting with the Player going first, place the following terrain within your half of the board, one terrain piece at a time, alternating between players. You cannot place a terrain piece within a building or with another terrain piece.
 
@@ -31,9 +31,9 @@ Each Player:
 - Ammo Crates x 2
 - Tank-Trap x 2
 
-Alternative: you may allow the Defender to place 2 more pieces of terrain.
+**Alternative**: you may allow the Defender to place 2 more pieces of terrain.
 
-Alternative: you may substitute up to 2 pieces of terrain for Barbed Wires or Rubble.
+**Alternative**: you may substitute up to 2 pieces of terrain for Barbed Wires or Rubble.
 
 ### Objective
 Players score VP for controlling or contesting the Objectives as follows:
