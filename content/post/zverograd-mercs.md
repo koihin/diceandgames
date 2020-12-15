@@ -13,9 +13,9 @@ A mercenary force (100%) operating in Zverograd gets a 15% faction bonus, instea
 Due to standardisation, all Mercs KV-47 (including tropical versions) have 5 Health.
 
 ## Platoons
-**Sister Luisa's Mercenary Platoon - Go Get'em Girls!** has an alternative Platoon Advantage. All mercenary units in or supporting this platoon gain Brave.
+**Sister Luisa's Mercenary Platoon - Go Get'em Girls!** has an alternative Platoon Advantage. All mercenary units in or supporting this platoon gain Brave. You may also add a Mercenary Anti-tank Squad OR a Mercenary Machine-gun Squad for free, i.e. they cost 0AP.
 
-**Taskforce Tanya - Dig in Girls** - if fielding this platoon, you may add a Mercenary Anti-tank Squad OR a Mercenary Machine-gun Squad as
+**Taskforce Tanya - Dig in Girls** - if fielding this platoon, you may add a Mercenary Anti-tank Squad OR a Mercenary Machine-gun Squad for free, i.e. they cost 0AP.
 
 ## Hero Archetypes
 Here is the list of Heroes you may choose as your commander (if it is the command unit of your Core Platoon) or add to your army list. Remember to rename them for the stories! If a Hero is not on the list, you would have to request for it from HQ.
