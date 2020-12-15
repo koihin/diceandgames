@@ -10,33 +10,39 @@ tags: ["dust","rtz","zverograd","missions"]
 ## Mission 1 - Another Day in the Doomed City.
 {{< figure src="/images/mission-a1-mat.png" link="/mission-a1-mat.png">}}
 ### Description
-This is a typical mission and map for Zverograd, the central area is surrounded by buildings (almost all floors are gone by now, and only empty husks of concrete remain), They provide cover overlooking where the two objectives (green square with O) of the scenario are. The objectives represent control over the area and you score VP by contesting and controlling them over the course of the game.
+This is a typical mission and map for Zverograd, the central area is surrounded by buildings (almost all floors are gone by now, and only empty husks of concrete remain), They provide Cover and are overlooking the two objectives (green square with O) of the scenario. The Objectives represent control over the area and you score **Victory Points** (VP) by contesting and controlling them over the course of the game.
 
 ### Size of game
-This scenario is suitable for Skirmish to Battle size games (40 to 100) with 60-80 being common. It can be used for Patrol as well of course, Patrol size games tend to be Meeting Engagements and slight modifications may be necessary.
+This scenario is suitable for Skirmish to Battle size games (40 to 100) with 60-80 being common. It can be used for Patrol as well. Patrol size games tend to be Meeting Engagements and slight modifications may be necessary, such as reducing the Objectives to just 1.
 
 ### Deployment
-Attacker come onto the board from the Blue edge. Defender come onto the board from the Red edge. Standard deployment rules apply (but can be modified as required by scenario).
+Attacker come onto the board from the blue edge. Defender come onto the board from the red edge. Standard deployment rules apply (but can be modified as required by the story).
 
 ### terrain
-The board has 4 main buildings as their main features. The 2 objectives can be either open space or terrain that provides Cover but should not block Line of Sight nor prevent Vehicles from entering or passing through.
+The board has 4 main buildings as their main features. The 2 Objectives can be either open space or terrain pieces that provide Cover but should not block Line of Sight nor prevent Vehicles from entering or passing through.
 
-In addition as part of Deployment step, after Initiative, starting with the Player going first, place the following within your half of the board, one terrain piece at a time. You cannot place a terrain piece within a building.
+The 2 Objectives are placed in the centre column, each 5 squares away from the deployment edge as in the diagram above.
+
+Alternative: To make it easier for the Defender, move both Objectives one square straight down nearer to the Defender deployment edge.
+
+In addition as part of Deployment step, after Initiative, starting with the Player going first, place the following terrain within your half of the board, one terrain piece at a time, alternating between players. You cannot place a terrain piece within a building or with another terrain piece.
 
 Each Player:
 - Ammo Crates x 2
 - Tank-Trap x 2
 
-Alternative: you may allow the Defender to place 2 more piece of terrain.
+Alternative: you may allow the Defender to place 2 more pieces of terrain.
 
 Alternative: you may substitute up to 2 pieces of terrain for Barbed Wires or Rubble.
 
 ### Objective
 Players score VP for controlling or contesting the Objectives as follows:
 - Turn 1 - no scoring of VPs.
-- Turn 2 - Controlling an Objective - 2 VP. Contesting - 1
-- Turn 3 - Controlling an Objective - 3 VP. Contesting - 1
-- Turn 4 - Controlling an Objective - 4 VP. Contesting - 1
-- (Optional Turn 5) - Controlling an Objective - 5 VP. Contesting - 1*
+- Turn 2 - Each Controlled Objective = 2 VP. Each Contested = 1
+- Turn 3 - Each Controlled Objective = 3 VP. Each Contested = 1
+- Turn 4 - Each Controlled Objective - 4 VP. Each Contested = 1
+- (Optional Turn 5) - Each Controlled = 5 VP. Each Contested = 1*
 
 *Roll a die at the end of Turn 4, if a [BLOC] is rolled, continue to Turn 5, otherwise game ends.
+
+The winner is the player with the most VPs. If there is a tie, Defender wins.
