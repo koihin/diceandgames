@@ -57,12 +57,17 @@ Not every Hero serves as a Hero Archetype; they cannot be added to a force witho
 
 ## Units Restrictions
 Certain units are not available for the campaign without it being assigned to you. Other restrictions as follows:
-* All Aircrafts and Vehicles of class 6 and above cannot be simply added to a force, if you need a specific Unit, you will need to request it from HQ and get their explicit approval.
+* All Aircrafts and Vehicles of class 6 and above cannot simply be added to a force. If you need a specific Unit, you will need to request it from HQ and get their explicit approval. Does not apply to Mythos creatures of Vehicle class 6 and above.
 * Infantry - maximum of 3 units per unit type unless required to form a legal platoon.
 * Vehicles - maximum of 2 units per unit type. Platoons that require more than 2 units of the same type cannot be fielded for this campaign.
 
+## Mercenary units
+You can add Mercenary Units to your list as per normal except for Mercenary Heroes. Mercenary Heroes need to be requested from various fixers who conveniently make themselves available to your respective HQ. There is a Mercs Hero requisition form to fill up where apart from indicating the Hero you also indicate the AP you are paying for him. The minimal is the AP he cost and no upper limit.
+
+The mercenary Hero will go to the highest bidder (unless story reasons) and you must pay for the AP even if you choose **not** to use the Hero in your force. The use of the Mercenary Hero is only for the campaign Round it is approved for. If you wish to use the Hero in subsequent Rounds you must request for the Unit again. In case of a tie for highest bidder, the Mercs Fixers decide.
+
 ## Size of Forces for Missions
-The RTZ campaign is designed to allow players with different army sizes to play, simply agree with your opponent on the Army Points total you will be playing at and go for it! For RTZ we have categorised them as follows:
+The RTZ campaign is designed to allow players at different stages of their collection to play, simply agree with your opponent on the Army Points total you will be playing at and go for it! For RTZ we have categorised them as follows:
 
 ### Size of Game
 Patrol: 30AP  

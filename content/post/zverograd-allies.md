@@ -35,7 +35,7 @@ If fielding an Allies Bloc army (75% bloc, no faction units), the faction bonus 
 {{< figure src="/images/justine-co-special.jpg">}}
 *The Allies have awarded a hefty contract to Justine & Co. for maintenance of their various war machines in different theatres. The ladies are popular with the boys both on and off the field.*
 
-If fielding an Allies Bloc army (75% bloc, no faction units) and bringing at least 2 Vehicles armour class 4 and above, you may add a Justine & Co. Unit for free, i.e. it costs 0AP. You cannot add a Justine & Co. as part of your normal list building. A list will never have more than one Justine & Co. Unit.
+If fielding an Allies Bloc army (75% bloc, no faction units) and bringing 2 Vehicles or more where at least one of them is armour class 4 and above, you may add a Justine & Co. Unit for free, i.e. it costs 0AP. You cannot add a Justine & Co. as part of your normal list building. A list will never have more than one Justine & Co. Unit.
 
 The following restrictions apply when using Justine & Co, the Unit will never take an Attack Action, but they will counter-attack in Close Combat as per normal. They can never contest for objectives or score for primary or secondary objectives.
 

@@ -30,4 +30,5 @@ Here is the list of Heroes you may choose as your commander (if it is the comman
 - Farouk The Turk
 - Lilith
 - Nadir
+- Nadir (flying)
 - Rasputin
