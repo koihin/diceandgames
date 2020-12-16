@@ -8,11 +8,13 @@ tags: ["dust","rtz","zverograd"]
 
 ## Known Allies Forces present at Zverograd at the end of August, 1947
 **Ninth Allied Army**
-- 1st Mesopotamian Army 4th MAR DIV
+- 1st Mesopotamian Army 4th MAR DIV (Left)*
 - 3rd Cavalry Division
 - 8th Ranger Battalion
 
 *Allies forces in Zverograd are desperate and de-moralised. The Mythos and new developments has scuppered their plans for a strategic withdrawal from the doomed city. Aid from an unexpected quarter stabilised the situation but the alliance is short-lived. An agreement with mercenary forces has been made, but HQ wonders if this is enough to secure their new objectives...*
+
+*The Marines have mostly left but a few special ops companies remained.
 
 Smaller than division level forces may not be tracked. When creating the backstory for your force you are free to create one that you think fits the narrative. Most forces will be at Platoon size, but remember, you can be at the core of a company that is not fully represented on the tabletop but appears in your story.
 
@@ -27,7 +29,7 @@ A dog may be man's best friend, but last we checked, it isn't a man. War Dogs Re
 Extensive field usage allowed Allies engineers to correct for structural flaws in their XM-18 series power armour. All Heavy Rangers gain [Structural Save]({{< ref "/post/dust-unified-saves" >}}).
 
 ## Bloc Veterans
-*The 8th Ranger Battalion has lost a lot good men over the long months. Those that remained have mastered city-fighting and learn to operate in new platoons. Bringing in Justine & Co. has also boosted morale.*
+*The 8th Ranger Battalion has lost a lot of good men over the long months. Those that remained have mastered city-fighting and learn to operate in new platoons. Bringing in Justine & Co. has also boosted morale.*
 
 If fielding an Allies Bloc army (75% bloc, no faction units), the faction bonus is 15% instead of 10%, any fraction is rounded up.
 

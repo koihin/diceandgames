@@ -1,6 +1,6 @@
 ---
 title: "The Battle for Zverograd, Part One"
-date: 2020-10-12T00:18:41+08:00
+date: 2020-10-13T00:18:41+08:00
 featured_image: "/images/zverograd2.jpg"
 description: "Part of a series on the Battle for Zverograd."
 tags: ["dust"]

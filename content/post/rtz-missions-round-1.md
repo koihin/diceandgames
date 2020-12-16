@@ -73,7 +73,7 @@ Each Player:
 
 **Alternative**: Defender may substitute up to 2 pieces of terrain for Barbed Wires.
 
-**Alternative**: Ammo Crates can allow you to Reload limited use weapons. The unit must be in or adjacent to the Ammo Crate and spend an Action to do a Reload Action. The Ammo Crate is destroyed immediately after and removed.
+**Alternative**: Ammo Crates can allow you to Replenish limited ammo weapons. The unit must be in or adjacent to the Ammo Crate and spend an Action to do a Replenish Action. The Ammo Crate is destroyed immediately after and removed. *Note this is slightly different from Replenish in the rulebook*
 
 ### Objective
 Players score VP for controlling or contesting the Objectives as follows:

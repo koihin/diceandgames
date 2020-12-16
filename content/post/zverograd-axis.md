@@ -43,7 +43,7 @@ If building an Axis Bloc army (75% bloc, no faction units), the faction bonus is
 
 *Through field experience, the engineers have improved the Axis walkers to stand up against formidable opponents.*
 
-The following two modifications apply to Axis Panzerkamplaufers walkers (class 4 and 5) only. Examples are the Luther, Ludwig, Jagdluther
+The following two modifications apply to Axis *PanzerKampfläufer* walkers (class 4 and 5) only. Examples are the Luther, Ludwig, Jagdluther
 
 **Reinforced:** when targeted by ranged weapons in the front arc, treat your armour class as one higher, i.e. class 4 is 5, class 5 is 6.
 
