@@ -16,12 +16,14 @@ Read about the [locations]({{< ref "/post/zverograd-districts-locations" >}}) yo
 You can see the previous rounds as they become available.
 
 ## Round 1
-Information for Round 1 and changes to the campaign. Page will be available soon.
+Here are suggested [missions]({{< ref "/post/rtz-missions-round-1" >}}) format to start you playing! Skirmish is a good size to start with. Remember you can always come up with your own scenarios, do share them with us if you do! See Missions below about locations.
+
+There are no additional rules for Round 1.
 
 ## Missions
 All verified results submitted by players are presented here in different tabular format. See who is the commander that has gone on the most missions, who has the most wins (if you are into that sort of thing), who has the most medals, etc.
 
-Most Missions will happen at a specific location in Zverograd. Refer to the current map as above. Choose a location accessible to both you and your opponent. Defender is determined by who currently controls the location. Otherwise determine it randomly. For ideas on how to setup a scenario for a location we have some ideas for you but you can always create your own based on the location you are fighting over! Sportsmanship should always prevail, when in doubt give the advantage to your opponent rather than yourself.
+Most Missions will happen at a specific location in Zverograd. Refer to the current map as above. Choose a location accessible to both you and your opponent. Defender is determined by who currently controls the location. Otherwise determine it randomly. For ideas on how to setup a scenario for a location see above but you can always create your own based on the location you are fighting over! Sportsmanship should always prevail, when in doubt give the advantage to your opponent rather than yourself.
 
 ## Getting started with RTZ
 First step is to [sign up](https://forms.gle/qng9wfbqeB86rQwL8)! It is perfectly fine that the campaign is underway, you don't have to play every Round! Play as much (or little) as you wish! Round 1 starts 15 December 2020 and goes on for six weeks/rounds!
