@@ -7,7 +7,7 @@ tags: ["dust","zverograd"]
 ---
 Read [Part 2]({{< ref "/post/battle-for-zverograd-part-2" >}}) of the Battle for Zverograd.
 ## Late Spring 1947
-The success of Operation Icarus for the Allies, and arguably at this point the most successful of the three blocs in Zverograd lead to the decision to withdraw most of the 4th Marines Division from Zverograd. They were responsible for some of the most dangerous missions against some of the best troops of the enemy. Some claim this decision was driven by rivalry within Allies command structure, others claim the opposite and 9th army HQ were adamant they remained remain. But Zverograd was no longer high on the priority and the Marines began pulling out in April and by May, only a few token USMC companies remained.
+The success of Operation Icarus for the Allies, and arguably at this point the most successful of the three blocs in Zverograd lead to the decision to withdraw most of the 4th Marines Division from Zverograd. They were responsible for some of the most dangerous missions against some of the best troops of the enemy. Some claim this decision was driven by rivalry within Allies command structure, others claim the opposite and 9th army HQ were adamant they remained. But Zverograd was no longer high on the list of priorities and the Marines began pulling out in April and by May, only a few token USMC companies remained.
 
 Little did ASOCOM suspect that the Middle-East was about to blow up with Operation Babylon on 27th April 1947. That conflict will soon overshadow the already poorly perceived state of affairs in Zverograd and change Allies' fortunes in the Doomed City for the worse.
 
@@ -46,7 +46,7 @@ The initial burst of creatures from underground was not followed by more, but al
 But the Doomed City changed in other weird ways too.
 
 ## late-summer 1947, Zverograd Today
-As if the horrors of the past weeks were not enough, there are areas of Zverograd where weirdness permeates. Soldiers who went on patrol for an hour, came back and claimed they have been wandering for days and couldn't find their way back, or they tell stories of another Zverograd that was different, not war-ravaged... but not mundane either. Phantom voices are heard of conversations from long ago, or perhaps from the far future, keeping men awake at night. One day the sun is bright and sunny, the next day snow starts falling... in summer.
+As if the horrors of the past weeks were not enough, there are areas of Zverograd where weirdness permeates. Soldiers who went on patrol for an hour, came back and claimed they have been wandering for days and couldn't find their way back, or they tell stories of another Zverograd that was different, not war-ravaged... but not mundane either. Phantom voices are heard of semi-intelligible conversations from long ago, or perhaps from the far future, keeping men awake at night. One day the sun is bright and sunny, the next day snow starts falling... in summer.
 {{<figure src="/images/outskirts-zverograd.jpg">}}
 
 The Ninth Army had to abandon many of their strategic locations, anywhere too open was an immediate threat from the Mi-Go. The Airfield was the first location to be evacuated, quickly followed by most of the western part of Zverograd as they prepared to evacuate all their forces. Then new orders came down, the existing troops were to stay put and prevent the other blocs from getting their hands on alien technologies. But the Allies are de-moralised and most agree it would not be long before they threw in the towel.
@@ -56,12 +56,12 @@ After the initial chaos, Axis forces took advantage of the situation to regain l
 The SSU knew but one thing, Zverograd is their city, and they will take it back or die trying. They steadily shored up their positions while testing the defences of the opposition. They are veterans of city warfare and they have a plan.
 {{<figure src="/images/mi-go.jpg">}}
 
-Mythos forces ran amok in Zverograd, small groups of cultists ran straight at fortifications blowing themselves up or getting gunned down, but sometimes physics defying actions are witnessed. Naked levitating persons speaking in an unrecognisable tongue, or a woman who walked through flames that burned off all her clothes but left her completely untouched. Then there are the monsters... Creatures from nightmares loped beside men sometimes seeming to take their orders, other times they are just as likely to pick up a nearby cultist and bite the head off.
+Mythos forces ran amok in Zverograd, small groups of ragtag cultists charged straight at fortifications blowing themselves up or getting gunned down, Sometimes physics defying actions are witnessed, naked levitating persons speaking in an alien tongue, or a woman who walked through flames that burned off all her clothes but left her completely untouched. Then there are the monsters... creatures from nightmares loped beside men sometimes seeming to take their orders, other times they are just as likely to pick up a nearby cultist and bite the head off.
 
-The cultists fight among themselves, each proclaiming their version of reality or gods as the true one.
+The various cults fight among themselves, each proclaiming their version of reality or gods as the true one.
 
 Into this strange mix, suddenly came stories of ghosts that walked through walls to quietly kill and glide through the dark ruins. The Imperial Japanese Navy and their feared ninjas are here but how and perhaps more importantly... why?
 
-And throughout all this there is still the entity under the old monastery. It attacks everything that comes within reach but it seems unable to leave the area. Weird electromagnetic waves and other form of energies are being transmitted from Zverograd. What is it doing? Is it communicating? It is trying to leave... or inviting others to join it?
+And throughout all this there is still the entity under the old monastery. It attacks everything that come within reach but it seems unable to leave the area. Weird electromagnetic waves and other form of energies are being transmitted from its location. What is it doing? Is it communicating? It is trying to leave... or inviting others to join it?
 
 Find out what happens next in our [Return to Zverograd]({{< ref "/post/rtz-central" >}}) campaign! See you on the battlefield!
