@@ -19,7 +19,7 @@ Heavy Ranger Attack Squad or Heavy Ranger Tank-Hunter Squad
  Ranger Weapon Squad or Ranger Heavy Weapon Squad or Ranger Recon Squad
 
 **Support Units (Optional)**  
-Any units under Combat Unit 1, Combat Unit 2, or Combat Unit 3
+Any Ranger infantry Unit
 
 If the Allied Ranger Units form the military backbone of ASOCOM, the Heavy Rangers are the steel punch that delivers the killing blow. The long drawn out fighting in Zverograd has lead ASOCOM to develop a new platoon structure that mixes Ranger and Heavy Ranger units into an even deadlier combination.
 
@@ -29,4 +29,4 @@ The Rangers make lightning attacks and occupy strategic ground while their suppo
 
 All Ranger and Heavy Ranger Units in or supporting the Platoon gain Scout, if the unit already has Scout it gains Defensive Tactics for the first Game Turn only instead.
 
-In addition, if this platoon is deployed in an Allies Bloc army (no faction troops), you may add a Ranger Sniper Squad OR a Ranger Observer Squad as a support for your platoon for free.
+In addition, if this platoon is deployed in an Allies Bloc army (no faction troops), you may add a Ranger Sniper Squad OR a Ranger Observer Squad as a support for your platoon for free, i.e. at 0AP.
