@@ -35,7 +35,7 @@ Outside Wichita, Kansas, the Octagon is home to the Allied Special Operations Co
 
 In the Old Town district of Zverograd, a devastating earthquake shatters the few ancient buildings left standing. The Monastery of Saint Petrov cracks open and a massive creature emerges from the depths. The ancient Vrill containment unit has finally gave up and the numerous arcane weapons, facing inward, have not been able to stop the nightmare that has emerged. Hundreds of Mi-Go, entombed with the creature eons ago, are released upon the city and attack anything in sight.
 
-The immediate aftermath was chaos, aircrafts were clawed at and forced to the ground by the Mi-Go swarm. Attempts by the various air forces to deal with the aerial threat proved devastating far too costly. For the next few months, the air above Zverograd belongs to the Mi-Gos.
+The immediate aftermath was chaos, aircrafts were clawed at and forced to the ground by the Mi-Go swarm. Attempts by the various air forces to deal with the aerial threat proved far too costly and all but the most urgent air operations were halted. For the next few months, the air above Zverograd belonged to the Mi-Go.
 
 On the ground, the already highly dangerous Metro became exits where hellish creatures pour forth from below. With demonic looking creatures flying above and running through the battered streets, the Doomed City had a new name, the City of the Damned.
 
