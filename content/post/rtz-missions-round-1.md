@@ -19,7 +19,7 @@ This scenario is suitable for Skirmish to Battle size games (40 to 100) with 60-
 Attacker come onto the board from the blue edge. Defender come onto the board from the red edge. Standard deployment rules apply (but can be modified as required by the story).
 
 ### Terrain
-The board has 4 main buildings as their main features. The 2 Objectives can be either open space or terrain pieces that provide Cover but should not block Line of Sight nor prevent Vehicles from entering or passing through.
+The board has 4 buildings as their main features. The 2 Objectives can be either open space or terrain pieces that provide Cover but should not block Line of Sight nor prevent Vehicles from entering or passing through.
 
 The 2 Objectives are placed in the centre column, each 5 squares away from the deployment edge as in the diagram above.
 
@@ -60,7 +60,7 @@ This scenario is suitable for Battle to Big Battle size games (80 AP or larger) 
 Attacker come onto the board from the blue edge. Defender come onto the board from the red edge. Standard deployment rules apply (but can be modified as required by the story).
 
 ### Terrain
-The board has 4 main buildings as their main features. The 4 Objectives are open spaces, do not provide Cover and do not block Line of Sight nor prevent Vehicles from entering or passing through. Follow the placement of Objectives as per the map.
+The board has 4 buildings as their main features. The 4 Objectives are open spaces, do not provide Cover and do not block Line of Sight nor prevent Vehicles from entering or passing through. Follow the placement of Objectives as per the map.
 
 **Alternative**: To make it easier for the Defender, move between 1-4 Objectives one square nearer to the Defender deployment edge.
 
