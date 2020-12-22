@@ -16,7 +16,7 @@ This is a typical mission and map for Zverograd, the central area is surrounded 
 This scenario is suitable for Skirmish to Battle size games (40 to 100) with 60-80 being common. It can be used for Patrol as well. Patrol size games tend to be Meeting Engagements and slight modifications may be necessary, such as reducing the Objectives to just 1.
 
 ### Deployment
-Attacker come onto the board from the blue edge. Defender come onto the board from the red edge. Standard deployment rules apply (but can be modified as required by the story).
+Attacker units enter board from the blue edge. Defender enter the board from the red edge. Standard deployment rules apply (but can be modified as required by the story).
 
 ### Terrain
 The board has 4 buildings as their main features. The 2 Objectives can be either open space or terrain pieces that provide Cover but should not block Line of Sight nor prevent Vehicles from entering or passing through.
@@ -57,7 +57,7 @@ This is a typical mission and map for Zverograd, the central area is surrounded 
 This scenario is suitable for Battle to Big Battle size games (80 AP or larger) with 100-120 AP being common. This scenario caters for units with weapon range 12 or higher as they can control fire lanes.
 
 ### Deployment
-Attacker come onto the board from the blue edge. Defender come onto the board from the red edge. Standard deployment rules apply (but can be modified as required by the story).
+Attacker units enter board from the blue edge. Defender enter the board from the red edge. Standard deployment rules apply (but can be modified as required by the story).
 
 ### Terrain
 The board has 4 buildings as their main features. The 4 Objectives are open spaces, do not provide Cover and do not block Line of Sight nor prevent Vehicles from entering or passing through. Follow the placement of Objectives as per the map.

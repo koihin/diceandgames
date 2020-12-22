@@ -46,7 +46,7 @@ Rallying for a unit is conducted as usual. Roll 2 dice at the start of a unit's 
 
 In addition when Rallying, if 2 [BLOC] are rolled, Stunned is removed as well, before the first Action of the unit.
 
-If a unit is still Suppressed or Pinned after rallying, the first Action must be a Nothing Action. In addition, if a Unit is Pinned, it cannot Attack (but can retaliate in Close Combat) or attempt a Reactive Attack, and it loses any ability that grants them a third Action.
+If a unit is still Suppressed or Pinned after rallying, the first Action must be a Nothing Action. In addition, if a Unit is Pinned, it cannot attempt a Reactive Attack, and it loses any ability that grants them a third Action.
 
 All units can attempt to Rally as a Special Action.
 

@@ -62,3 +62,6 @@ Ans: Yes of course! Even better, contact us with your scenarios and ideas and we
 
 #### Q5. Can I play multiple games and submit them separately each campaign round?
 Ans: Yes, provided they are with different commanders. Does this mean you can't play mulitple games with the same commander each week? Yes, you can play multiple linked games with the same player but you submit it as one result, giving your final VP tally across the battles. For example, you might want to play 3 Skirmish size game with a friend in an evening, you won the first game with 10 VPs, lost the second with 6 VPs, and won the last again with 8 VPs, you submit your final result as 10+6+8=24VPs. You indicate you are the Defender or Attacker base on your final battle.
+
+#### Q6. According to the campaign rules, I cannot have more than 3 infantry of the same type unless required by a Platoon to make it legal. Can I deploy two of the same platoon, even though this will require more than 3 of the same infantry type to make both platoons?
+Ans: Yes you may, satisfying the requirements of each platoon so that is is legal (and no more). Obviously for those platoons that require a specific Hero as a Command Unit, you can only bring one of each.

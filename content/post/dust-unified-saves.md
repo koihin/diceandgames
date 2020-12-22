@@ -10,17 +10,21 @@ title: "Dust Unified Saves Table"
 
 ## Saves in Dust 1947
 
-A Save is a target unit's reaction to Hits. Unless otherwise noted, Saves of the same type do not stack; example, you cannot get Evade and Improved Evade Save. For Infantry units, Cover and Infantry Saves are mutually exclusive unless otherwise stated.
+A Save is a target unit's reaction to Hits. Unless otherwise noted, Saves of the same type do not stack; example, you cannot get Evade and Improved Evade Save.
 
-When a weapon negates a type of Save, ignore the Save entirely, the Hit goes through. When a weapon reduces a type of Save, it saves only on a [BLOC].
+If a unit gets Cover Save, you do not get Evade or Infantry Save. Cover and Evade/Infantry Saves are mutually exclusive (you can get both Evade and infantry Save at the same time).
+
+E.g. A Sturmgrenadier squad is currently behind Cover and is within a smoke screen. The smoke provides an Evade Save but as he is getting the Cover Save he does not receive the Evade Save and Infantry Save. If the unit were to be Hit by a weapon that negates Cover, they will get the Evade Save and Infantry Save.
+
+When a weapon negates a type of Save, ignore the Save entirely, the Hit goes through. When a weapon reduces a type of Improved Save, it saves only on a [BLOC].
 
 Here are the six types of Saves in Dust 1947 (Structural and Improved Structural Save are campaign specific).
 
 **Evade Save**
-The player rolls a die for each Hit their Target Unit received. Each [BLOC] rolled negates one Hit. Evade Save happens before Cover/infantry Save.
+*Evade Save do not apply if you have Cover Save.* The player rolls a die for each Hit their Target Unit received. Each [BLOC] rolled negates one Hit. Evade Save happens before Infantry Save.
 
 **Improved Evade Save**
-The player rolls a die for each Hit their Target Unit received. Each [BLOC] or [SHIELD] rolled negates one Hit. Improved Evade Save happens before Cover/infantry Save.
+*Improved Evade Save do not apply if you have Cover Save.* The player rolls a die for each Hit their Target Unit received. Each [BLOC] or [SHIELD] rolled negates one Hit. Improved Evade Save happens before Infantry Save.
 
 **Cover Save**
 For an Infantry Unit in Cover, the player rolls a die for each Hit their Target Infantry Unit received. Each [BLOC] or [SHIELD] rolled negates one Hit.
