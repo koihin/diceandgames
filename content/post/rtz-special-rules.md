@@ -38,7 +38,7 @@ If a Hit does [DEATH] damage, Damage Resilient only applies to half the damage r
 ## Suppression Rules
 **this replaces Suppression in the rulebook and affects Stunned in a small way.**
 
-A Unit can be in one of 3 Suppression states, the default is None (no suppression), Suppressed, and Pinned. Only Infantry class 1 and 2 can have a Pinned state, all other units including all Vehicles and Aircrafts ignore a Pinned result. All Heroes, by themselves, cannot be Pinned. However, if joined to Infantry 1 or 2 unit it can be pinned as per the unit.
+A Unit can be in one of 3 Suppression states, the default is *None* (no suppression), *Suppressed*, and *Pinned*. Only Infantry class 1 and 2 can have a Pinned state, all other units including all Vehicles and Aircrafts ignore a Pinned result. All Heroes, by themselves, ignore a Pinned result as well. However, if joined to Infantry 1 or 2 unit it can be pinned as per the unit.
 
 When a target unit is hit, roll 2 dice. For each [BLOC] rolled, move up to the next Suppression state, i.e. None to Suppressed, Suppressed to Pinned.
 
@@ -101,7 +101,7 @@ The Defender in a mission might be given the option to add an Strongpoint (10AP)
 - It is difficult to engage in Close Combat through the front slit of a Bunker. Only C range weapon with a [Blast] symbol as its stats can engage in CC through the front.
 
 ## Height Advantage
-**This replaces the Height Advantage rule from the rulebook and FAQ.**
+*This replaces the Height Advantage rule from the rulebook and FAQ.*  
 If you are Higher than your target unit by Range 1 or more, your target must re-roll Infantry and Cover Saves (Structural Saves are not affected). If you are Lower by Range 1 or more, your target gains Cover Save.
 
 ## Height Difference and Close Combat

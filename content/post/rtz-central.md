@@ -16,6 +16,10 @@ Read about the [locations]({{< ref "/post/zverograd-districts-locations" >}}) yo
 You can see the previous rounds as they become available.
 
 ## Round 1
+
+Results from Round 1 are out!
+{{<round_1_results>}}
+
 Here are suggested [missions]({{< ref "/post/rtz-missions-round-1" >}}) format to start you playing! Skirmish is a good size to start with. Remember you can always come up with your own scenarios, do share them with us if you do! See Missions below about locations.
 
 There are no additional rules for Round 1.
