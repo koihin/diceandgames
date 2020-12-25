@@ -6,11 +6,11 @@ description: "An explosive start!"
 tags: ["dust","rtz","zverograd"]
 ---
 ## The story so far...
-The sudden introduction of the Imperial Japanese Navy forces acted as a catalyst for a surge in the level of conflict. Where previously the greatest threat were the monsters above and monsters below, now the blocs are making incursions into each other's territories. The IJN are the most enigmatic of all, striking from seemingly out of nowhere, crossing uncrossable barriers. Yet they dissolve after a fight seemingly not keen to hold any particular location.
+The sudden introduction of the Imperial Japanese Navy forces acted as a catalyst for a surge in the level of conflict. Where previously the greatest threat were the monsters above and monsters below, now the blocs are making incursions into each other's territories. The IJN are the most enigmatic of all, striking from seemingly out of nowhere, crossing uncrossable barriers. Yet they dissolve after a fight as if not keen to hold on any particular location.
 
 Rumours abound they are in alliance with another power in Zverograd but which bloc is it and what is their agenda? Regardless, there is sudden renewed interest in Zverograd from high up, and taking down the Mythos aerial threat becomes a priority. A clandestine meeting is arranged...
 
-##Results from Round 1 are out!
+## Results from Round 1 are out!
 {{<round_1_results>}}
 
 
