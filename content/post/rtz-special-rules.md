@@ -36,17 +36,19 @@ All Vehicles (all classes) and Infantry class 3 and 4 gain Damage Resilient agai
 If a Hit does [DEATH] damage, Damage Resilient only applies to half the damage rounded up. For example, a KV-47 is Hit by a weapon that does [DEATH], instead of rolling for Damage Resilient against all 5 damage, it rolls only 3 (half rounded up).
 
 ## Suppression Rules
-**this replaces Suppression in the rulebook and affects Stunned in a small way.**
+*This replaces Suppression in the rulebook and affects Stunned in a small way.*
 
-A Unit can be in one of 3 Suppression states, the default is *None* (no suppression), *Suppressed*, and *Pinned*. Only Infantry class 1 and 2 can have a Pinned state, all other units including all Vehicles and Aircrafts ignore a Pinned result. All Heroes, by themselves, ignore a Pinned result as well. However, if joined to Infantry 1 or 2 unit it can be pinned as per the unit.
+A Unit can be in one of 3 Suppression states; the default is **None** (no suppression), **Suppressed**, and **Pinned**. Only Infantry class 1 and 2 can have a Pinned state, all other units including all Vehicles and Aircrafts ignore a Pinned result. All Heroes, by themselves, ignore a Pinned result as well. However, if joined to Infantry 1 or 2 unit it can be pinned as per the unit.
 
 When a target unit is hit, roll 2 dice. For each [BLOC] rolled, move up to the next Suppression state, i.e. None to Suppressed, Suppressed to Pinned.
 
 Rallying for a unit is conducted as usual. Roll 2 dice at the start of a unit's Activation. For each [BLOC] rolled, lower the Unit's Suppression state by one, e.g. Pinned becomes Suppressed, Suppressed becomes None.
 
+All Heroes (including those joined to a Unit), Vehicles and Aircrafts, may choose to re-roll each Rally attempt. They must re-roll all dice and they must accept the second result, even if it is worse than the first.
+
 In addition when Rallying, if 2 [BLOC] are rolled, Stunned is removed as well, before the first Action of the unit.
 
-If a unit is still Suppressed or Pinned after rallying, the first Action must be a Nothing Action. In addition, if a Unit is Pinned, it cannot attempt a Reactive Attack, and it loses any ability that grants them a third Action.
+If a unit is still Suppressed or Pinned after Rallying, the first Action must be a Nothing Action. In addition, if a Unit is Pinned, it cannot attempt a Reactive Attack, and it loses any ability that grants them a third Action.
 
 All units can attempt to Rally as a Special Action.
 
@@ -70,8 +72,8 @@ Here are some additional terrain types you add to your game, and where applicabl
 *Cheap and effective, barbed wire can considerably slows down the enemy infantry advance towards defensive positions.*
 {{<figure src="/images/barbed-wire.png">}}
 
-- When Infantry Units of class 1 and 2 cross or enter a barbed wire square, each square of barbed wire costs an additional movement point. In addition, each time it enters a barbed square, roll 1 die. On a [TARGET] the unit is Suppressed (if applicable) and must stop movement immediately.
-- Infantry Units of class 3 and 4 are unaffected by the barbed wires. When entering a barbed wire square, roll a die. on a [TARGET] the unit destroys the barbed wire.
+- When Infantry Units of class 1 and 2 cross or enter a barbed wire square, each square of barbed wire costs an additional movement point. In addition, each time it enters a barbed wire square, roll 1 die. On a [TARGET] the unit is Suppressed (if applicable) and must stop movement immediately.
+- Infantry Units of class 3 and 4 are unaffected by the barbed wires.
 - Wheeled Vehicles when entering a barbed wire square, roll 1 die. On a [TARGET] the wires gets entangled with the Vehicle and it must stop movement immediately. The barbed wire is destroyed and the Vehicle can move normally when it next activates.
 - All other Vehicles destroys Barbed Wires when they enter and are otherwise unaffected.
 

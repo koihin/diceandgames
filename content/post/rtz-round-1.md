@@ -16,12 +16,6 @@ Rumours abound they are in alliance with another power in Zverograd but which bl
 ## Zverograd Map  - Current Situation
 {{< figure src="/images/zverograd-round-1.png" link="/images/zverograd-round-1.png">}}
 
-
-## Some Numbers
-We present here some other data from Round 1.
-
-{{<data_round_1>}}
-
 ## Summary of Round 1
 Great Hotel of the Red Flag, Victory Plaza and Botanical Garden saw the bulk of the battles, most were skirmish affairs involving mostly platoon sized engagements. These were not unexpected as they are critical locations in Zverograd and nexus points within their own districts.
 
@@ -30,3 +24,8 @@ The IJN made several incursions into SSU and Axis controlled territories with mi
 Allies Ranger forces attempted a lightning strike attack at the Tractor Factory, a vital position for the SSU, but Steel Guards repulsed them and Allies were not able to secure any kind of foothold.
 
 It is obvious to any the various blocs are gearing up for larger conflicts, do they have plans to deal with the Mi-Go flying terrors that makes getting supplies to the city extra-difficult?
+
+## Some Numbers
+Some statistics from Round 1.
+
+{{<data_round_1>}}
