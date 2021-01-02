@@ -7,16 +7,20 @@ tags: ["dust","rtz","zverograd"]
 ---
 Welcome to RTZ campaign central, where we get you into the game and update you on the progress of the battle for the doomed city!
 
-## Map of Zverograd - Round 1
-{{< figure src="/images/zverograd-round-1.png" link="/images/zverograd-round-1.png">}}
-Here is the most up-to-date map on the current situation. The bloc symbol shows who controls each location. If a location does not have a symbol it means no bloc dominates the location yet.
+## Map of Zverograd - At the Start of Round 3
+We are now into Round 3 of the RTZ campaign and things are heating up! 
+{{< figure src="/images/zverograd-round-2.png" link="/images/zverograd-round-1.png">}}
+Here is the map at the start of the Round. The bloc symbol shows who controls each location. If a location does not have a symbol it means no bloc dominates the location yet.
 
 Read about the [locations]({{< ref "/post/zverograd-districts-locations" >}}) you will be fighting over.
 
 You can see the previous rounds as they become available.
 
-## Round 1
+## Round 2
+[Results]({{< ref "/post/rtz-round-2" >}}) from Round 2 are out!
 
+
+## Round 1
 [Results]({{< ref "/post/rtz-round-1" >}}) from Round 1 are out!
 
 
