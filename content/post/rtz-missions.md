@@ -1,5 +1,5 @@
 ---
-title: "Return to Zverograd Missions - Round 1"
+title: "Return to Zverograd Missions"
 date: 2020-12-10T00:18:41+08:00
 featured_image: "/images/mission-a1-mat-half.png"
 description: "Sample missions to start you off!"

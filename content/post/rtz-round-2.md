@@ -14,7 +14,7 @@ The IJN produced new combatants seemingly out of thin air, as their numbers appe
 
 What was clear was the Allies appear to be have temporarily halted their offensive and there are rumours of a temporary cease-fire. None of the other Blocs attempted to push into Allies held territory. Observers noted increased activity in the old Zverograd Airfield, tarmacs were repaired, and potholes filled,
 
-The SSU continued to be tenacious opponents, holding on to their territories even as they attempted to push into Axis strongholds, the Great Hotel of the Red Flag again the seeming focus as both sides attempted to hold this symbolic location. So too did the Soviet Square remain in SSU hands after vicious fighting with Axis forces.
+The SSU continued to be tenacious opponents, holding on to their territories even as they attempted to push into Axis strongholds, the Great Hotel of the Red Flag again the focus as both sides attempted to hold this symbolic location. So too did the Soviet Square remain in SSU hands after vicious fighting with Axis forces.
 
 The Red Army re-took Revolution Park and Victory Plaza, widely seen as the next step to gain control over the People's District and Park's District.
 

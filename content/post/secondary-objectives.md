@@ -1,5 +1,5 @@
 ---
-title: "Return to Zverograd Missions - Round 2"
+title: "Secondary Objectives"
 date: 2020-12-22T00:18:41+08:00
 featured_image: "/images/huzzah_objective.png"
 description: "Adding Secondary Objectives!"
@@ -7,7 +7,7 @@ tags: ["dust","rtz","zverograd","missions"]
 ---
 *We provide missions that we think will be fun and thematic for RTZ and for the round, you are not limited to these missions and in fact we believe our players can come up with better scenarios on their own! Contact us with your scenarios, we would love to feature them! When in doubt, always consult your opponent and arrive at a mutually agreeable scenario, giving the advantage to your opponent if there is any uncertainty like a gentleman!*
 
-For Round 2 you can use [Round 1 Missions]({{< ref "/post/rtz-missions-round-2" >}}) for reference.
+For Round 2 you can use [Round 1 Missions]({{< ref "/post/rtz-missions" >}}) for reference.
 
 ## Secondary Objectives
 Starting from Round 2, you can now add Secondary Objectives to your games!
