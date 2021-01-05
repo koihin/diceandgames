@@ -108,7 +108,7 @@ There are 3 Objectives. The Objective closest to the Defender edge is a monument
 
 The other 2 Objectives are open spaces, do not provide Cover and do not block Line of Sight nor prevent Vehicles from entering or passing through. In order to contest/control these Objectives, units must have Line of Sight to them.
 
-There is a small Ammo Dump directly opposite the monument. By default it provides cover like an Ammo Crate.
+There is a terrain piece directly opposite the monument. By default it provides cover like an Ammo Crate.
 
 **Alternative**: If the Players agree, it can function as an Small Ammo Dump as per the rules. It can be destroyed; treat it as Vehicle class 6 with 6 Health, and it receives Cover Save.
 
