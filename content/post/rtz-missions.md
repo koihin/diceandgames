@@ -81,4 +81,58 @@ Players score VP for controlling or contesting the Objectives as follows:
 - Turn 2 onwards, at the end of each Turn, each Controlled Objective is worth 2 VP. Each Contested is worth 1 VP.
 
 ### Victory Conditions
-- Turn 4 onwards, at the end of each Turn, if one side controls 3 or more Objectives and has more VPs than the other, that side is the winner and game ends. Otherwise game ends at Turn 6 and highest VP wins the game, Defender breaks ties.
+Turn 4 onwards, at the end of each Turn, if one side controls 3 or more Objectives and has more VPs than the other, that side is the winner and game ends. Otherwise game ends at Turn 6 and highest VP wins the game, Defender breaks ties.
+
+## Mission 3 - Symbol of the People!
+{{< figure src="/images/mission-a3-mat.png" link="/images/mission-a3-mat.png">}}
+
+### Description
+This mission and map is suitable for any location that has a symbolic monument at the centre of a plaza or avenue such as the Victory Plaza or October Revolution Avenue
+
+However, it can used for almost any location, simply substitute the statue for any impassable terrain that blocks LoS as well.
+
+### Size of game
+This scenario is suitable for Battle to Big Battle size games (80 AP or larger) with 100-120 AP being common. Commanders will need to study the layout carefully to decide what units to bring and anticipate what their opponents will bring.
+
+### Deployment
+Attacker units enter board from the blue edge. Defender enter the board from the red edge. The orange zone is where Reserves can enter.  Standard deployment rules apply (but can be modified as required by the story).
+
+### Terrain
+The board has 5 buildings as their main features, the building closest to the Defender edge has a level 2 which provides Height Advantage up to Range 3.
+
+**Alternative**: If the Players agree, you can replace the building closest to the Defender Edge with a single Strongpoint placed within the same area where the building was.
+
+An alternative is to remove any of the 3 buildings closer to the Defender from the game. This might be necessary to allow the Defender to move his Huge Vehicle to the Objectives.
+
+There are 3 Objectives. The Objective closest to the Defender edge is a monument which is impassable terrain and blocks Line of Sight.
+
+The other 2 Objectives are open spaces, do not provide Cover and do not block Line of Sight nor prevent Vehicles from entering or passing through. In order to contest/control these Objectives, units must have Line of Sight to them.
+
+There is a small Ammo Dump directly opposite the monument. By default it provides cover like an Ammo Crate.
+
+**Alternative**: If the Players agree, it can function as an Small Ammo Dump as per the rules. It can be destroyed; treat it as Vehicle class 6 with 6 Health, and it receives Cover Save.
+
+Follow the placement of Objectives as per the map.
+
+Before Deployment, starting with the Defender, place the following terrain pieces within Range 2 (Range 3 for tank-traps) of any Objective but not on the Objective itself, one terrain piece at a time, alternating between players. You cannot place a terrain piece within a building or with another terrain piece.
+
+Tank-Traps must be placed such that it is within Range 3 to two Objectives, if it is not possible to do so, replace the tank-trap with an ammo-crate or barbed wire.
+
+Each Player:
+- Ammo Crates x 2
+- Tank-Traps x 2
+- Rubbles x 2
+
+## Reserves
+Place all of Attacker's destroyed units from Turn 1 to Turn 3 in Reserves and treat as fresh units. In Turn 4, all Reserves are part of your force again and must enter the board as per Deployment rules (enter from Attackers Deployment Edge). If the Attacker is contesting any of the Objectives, they may enter from the closest Reserves zone to a contested Objective. Heroes can never be part of Reserves and cannot be brought back into the game in this manner.
+
+### Objectives
+Players score VP for controlling or contesting the Objectives as follows:
+- Turn 1 - no scoring of VPs.
+- Turn 2 onwards, at the end of each Turn, each Controlled Objective is worth 2 VP. Each Contested is worth 1 VP.
+
+For this mission, it is highly recommended you play with Secondary Objectives.
+
+
+### Victory Conditions
+Turn 4 onwards, at the end of each Turn, if one side controls all 3 Objectives and has more VP than the opponent, that side is the winner and game ends. Otherwise game ends at Turn 6 and highest VP wins the game, Defender breaks ties.
