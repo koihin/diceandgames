@@ -1,7 +1,7 @@
 ---
 title: "Return to Zverograd Round 2 Results"
 date: 2021-01-02T00:18:41+08:00
-featured_image: "/images/zverograd-round-2.png"
+featured_image: "/images/zverograd-round-2.jpg"
 description: "An explosive start!"
 tags: ["dust","rtz","zverograd"]
 ---
@@ -32,7 +32,7 @@ At that moment a swarm of Allies P48s came in low over the Caspian Sea, skimming
 {{<round_2_results>}}
 
 ## Zverograd Map  - Current Situation
-{{< figure src="/images/zverograd-round-2.png" link="/images/zverograd-round-2.png">}}
+{{< figure src="/images/zverograd-round-2.jpg" link="/images/zverograd-round-2.jpg">}}
 
 
 
