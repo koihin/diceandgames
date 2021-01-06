@@ -25,13 +25,12 @@ Round 2 introduces [Secondary Objectives]({{< ref "/post/secondary-objectives" >
 ## Round 1
 [Results]({{< ref "/post/rtz-round-1" >}}) from Round 1 are out!
 
-
-Here are suggested [missions]({{< ref "/post/rtz-missions" >}}) format to start you playing! Skirmish is a good size to start with. Remember you can always come up with your own scenarios, do share them with us if you do! See Missions below about locations.
-
 There are no additional rules for Round 1.
 
 ## Missions
-All verified results submitted by players are presented here in different tabular format. See who is the commander that has gone on the most missions, who has the most wins (if you are into that sort of thing), who has the most medals, etc.
+Here are suggested [missions]({{< ref "/post/rtz-missions" >}}) format to start you playing! Skirmish is a good size to start with. Remember you can always come up with your own scenarios, do share them with us if you do! See Missions below about locations.
+
+All verified results submitted by players are presented in different tabular format. See who is the commander that has gone on the most missions, who has the most wins (if you are into that sort of thing), who has the most medals, etc.
 
 Most Missions will happen at a specific location in Zverograd. Refer to the current map as above. Choose a location accessible to both you and your opponent. Defender is determined by who currently controls the location. Otherwise determine it randomly. For ideas on how to setup a scenario for a location see above but you can always create your own based on the location you are fighting over! Sportsmanship should always prevail, when in doubt give the advantage to your opponent rather than yourself.
 

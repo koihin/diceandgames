@@ -5,12 +5,7 @@ featured_image: "/images/huzzah_objective.png"
 description: "Adding Secondary Objectives!"
 tags: ["dust","rtz","zverograd","missions"]
 ---
-*We provide missions that we think will be fun and thematic for RTZ and for the round, you are not limited to these missions and in fact we believe our players can come up with better scenarios on their own! Contact us with your scenarios, we would love to feature them! When in doubt, always consult your opponent and arrive at a mutually agreeable scenario, giving the advantage to your opponent if there is any uncertainty like a gentleman!*
-
-For Round 2 you can use [Round 1 Missions]({{< ref "/post/rtz-missions" >}}) for reference.
-
-## Secondary Objectives
-Starting from Round 2, you can now add Secondary Objectives to your games!
+*Secondary Objectives can be a lot fun especially for experienced players. They can spruce up an existing mission/scenario and introduce a layer of strategy that might be the difference between victory and defeat!*
 
 Secondary Objectives can fit into any Mission where you are scoring VPs over X number of Game Turns. Most VPs are scored immediately when you satisfy the objective requirements stated on the card.
 
@@ -18,7 +13,7 @@ Each Secondary Objective will score you 1 VP.
 
 You can never score for the same Secondary Objectives twice, but you can score for Multiple Objectives in the same Game Turn.
 
-Here are Six Secondary Objectives for your use. They are as of now not secret, and if available to one player is available to the other. As the Rounds progressed we will see new Secondary Objectives as well different ways of using them.
+Here are Six Secondary Objectives for your use. They are by default open information, and if available to one player is available to the other. As the Rounds progressed we will see new Secondary Objectives as well different ways of using them.
 
 ### 1. Hello There
 {{< figure src="/images/hello_there_objective.png" link="/images/hello_there_objective.png">}}

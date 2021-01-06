@@ -2,17 +2,25 @@
 title: "Return to Zverograd Missions"
 date: 2020-12-10T00:18:41+08:00
 featured_image: "/images/mission-a1-mat-half.png"
-description: "Sample missions to start you off!"
+description: "Mission Briefings!"
 tags: ["dust","rtz","zverograd","missions"]
 ---
-*We provide missions that we think will be fun and thematic for RTZ and for the round, you are not limited to these missions and in fact we believe our players can come up with better scenarios on their own! Contact us with your scenarios, we would love to feature them! When in doubt, always consult your opponent and arrive at a mutually agreeable scenario, giving the advantage to your opponent if there is any uncertainty like a gentleman!*
+*We provide missions that we think will be fun and thematic for RTZ. You are not limited to these missions and in fact we believe our players can come up with better scenarios on their own! Contact us with your scenarios, we would love to feature them! When in doubt, always consult your opponent and arrive at a mutually agreeable scenario, giving the advantage to your opponent if there is any uncertainty like a gentleman!*
 
+*Secondary Objectives are now [available]({{< ref "/post/secondary-objectives" >}})! Give them a spin, they add more ways to score VPs in your games!*
+
+List of missions for RTZ campaign:
+1. [Mission 1 - Another Day in the Doomed City](#mission-1---another-day-in-the-doomed-city)
+2. [Mission 2 - This Deadly Concrete Jungle](#mission-2---this-deadly-concrete-jungle)
+3. [Mission 3 - Symbol of the People!](#mission-3---symbol-of-the-people)
+
+***
 ## Mission 1 - Another Day in the Doomed City.
 {{< figure src="/images/mission-a1-mat.png" link="/images/mission-a1-mat.png">}}
 ### Description
-This is a typical mission and map for Zverograd, the central area is surrounded by buildings (almost all floors are gone by now, and only empty husks of concrete remain), They provide Cover and are overlooking the two objectives (green square with O) of the scenario. The Objectives represent control over the area and you score **Victory Points** (VP) by contesting and controlling them over the course of the game.
+This is a typical mission and map for Zverograd, the central area is surrounded by buildings (almost all floors are gone by now, and only empty husks of concrete remain), They provide Cover and are overlooking the two objectives (green square with O) of the scenario. The Objectives represent control over the area over the course of the game.
 
-### Size of game
+### Size of Game
 This scenario is suitable for Skirmish to Battle size games (40 to 100) with 60-80 being common. It can be used for Patrol as well. Patrol size games tend to be Meeting Engagements and slight modifications may be necessary, such as reducing the Objectives to just 1.
 
 ### Deployment
@@ -28,7 +36,7 @@ The 2 Objectives are placed in the centre column, each 5 squares away from the d
 As part of Deployment step, after Initiative, starting with the Player going first, place the following terrain within your half of the board, one terrain piece at a time, alternating between players. You cannot place a terrain piece within a building or with another terrain piece.
 
 Each Player:
-- Ammo Crates x 2
+- Ammo-Crates x 2
 - Tank-Trap x 2
 
 **Alternative**: you may allow the Defender to place 2 more pieces of terrain.
@@ -48,12 +56,13 @@ Players score VP for controlling or contesting the Objectives as follows:
 ### Victory Conditions
 The winner is the player with the most VPs. If there is a tie, Defender wins.
 
+***
 ## Mission 2 - This Deadly Concrete Jungle
 {{< figure src="/images/mission-a2-mat.png" link="/images/mission-a2-mat.png">}}
 ### Description
-This is a typical mission and map for Zverograd, the central area is surrounded by buildings (almost all floors are gone by now, and only empty husks of concrete remain), They provide Cover and are overlooking 4 Objectives (green square with O) of the scenario. The Objectives represent control over the area and you score **Victory Points** (VP) by contesting and controlling them over the course of the game.
+This is a typical mission and map for Zverograd, the central area is surrounded by buildings (almost all floors are gone by now, and only empty husks of concrete remain), They provide Cover and are overlooking 4 Objectives (green square with O) of the scenario. The Objectives represent control over the area over the course of the game.
 
-### Size of game
+### Size of Game
 This scenario is suitable for Battle to Big Battle size games (80 AP or larger) with 100-120 AP being common. This scenario caters for units with weapon range 12 or higher as they can control fire lanes.
 
 ### Deployment
@@ -83,26 +92,27 @@ Players score VP for controlling or contesting the Objectives as follows:
 ### Victory Conditions
 Turn 4 onwards, at the end of each Turn, if one side controls 3 or more Objectives and has more VPs than the other, that side is the winner and game ends. Otherwise game ends at Turn 6 and highest VP wins the game, Defender breaks ties.
 
+***
 ## Mission 3 - Symbol of the People!
 {{< figure src="/images/mission-a3-mat.png" link="/images/mission-a3-mat.png">}}
 
 ### Description
-This mission and map is suitable for any location that has a symbolic monument at the centre of a plaza or avenue such as the Victory Plaza or October Revolution Avenue
+This mission and map is suitable for any location that has a symbolic monument at the centre of a plaza or avenue such as the Victory Plaza or October Revolution Avenue.
 
 However, it can used for almost any location, simply substitute the statue for any impassable terrain that blocks LoS as well.
 
-### Size of game
-This scenario is suitable for Battle to Big Battle size games (80 AP or larger) with 100-120 AP being common. Commanders will need to study the layout carefully to decide what units to bring and anticipate what their opponents will bring.
+### Size of Game
+This scenario is suitable for Battle to Big Battle size games (80 AP or larger) with 100-120 AP being common. Commanders will need to study the layout carefully to decide what units to bring and anticipate what opposition you will face.
 
 ### Deployment
-Attacker units enter board from the blue edge. Defender enter the board from the red edge. The orange zone is where Reserves can enter.  Standard deployment rules apply (but can be modified as required by the story).
+Attacker units enter board from the blue edge. Defender enter the board from the red edge. The orange zone is where Reserves can enter, if they satisfy the conditions. Standard deployment rules apply (but can be modified as required by the story).
 
 ### Terrain
 The board has 5 buildings as their main features, the building closest to the Defender edge has a level 2 which provides Height Advantage up to Range 3.
 
 **Alternative**: If the Players agree, you can replace the building closest to the Defender Edge with a single Strongpoint placed within the same area where the building was.
 
-An alternative is to remove any of the 3 buildings closer to the Defender from the game. This might be necessary to allow the Defender to move his Huge Vehicle to the Objectives.
+**Alternative**: Remove any of the 3 buildings closer to the Defender from the game. This might be necessary to allow the Defender to move his Huge Vehicle to the Objectives.
 
 There are 3 Objectives. The Objective closest to the Defender edge is a monument which is impassable terrain and blocks Line of Sight.
 
@@ -110,7 +120,7 @@ The other 2 Objectives are open spaces, do not provide Cover and do not block Li
 
 There is a terrain piece directly opposite the monument. By default it provides cover like an Ammo Crate.
 
-**Alternative**: If the Players agree, it can function as an Small Ammo Dump as per the rules. It can be destroyed; treat it as Vehicle class 6 with 6 Health, and it receives Cover Save.
+**Alternative**: Replace it with a Small Ammo Dump as per the rules. It can be destroyed; treat it as Vehicle class 6 with 6 Health, and it receives Cover Save.
 
 Follow the placement of Objectives as per the map.
 
@@ -119,12 +129,14 @@ Before Deployment, starting with the Defender, place the following terrain piece
 Tank-Traps must be placed such that it is within Range 3 to two Objectives, if it is not possible to do so, replace the tank-trap with an ammo-crate or barbed wire.
 
 Each Player:
-- Ammo Crates x 2
+- Ammo-Crates x 2
 - Tank-Traps x 2
 - Rubbles x 2
 
 ## Reserves
-Place all of Attacker's destroyed units from Turn 1 to Turn 3 in Reserves and treat as fresh units. In Turn 4, all Reserves are part of your force again and must enter the board as per Deployment rules (enter from Attackers Deployment Edge). If the Attacker is contesting any of the Objectives, they may enter from the closest Reserves zone to a contested Objective. Heroes can never be part of Reserves and cannot be brought back into the game in this manner.
+Place all of the Attacker's destroyed units from Turn 1 to Turn 3 in Reserves and treat as fresh units. In Turn 4, all Reserves are part of the Attacker force again and must enter the board as per Deployment rules (enter from Attackers Deployment Edge). In Turn 3, the Attacker may choose to destroy any of his non-Hero infantry unit which has only 1 model left after finishing its Activation. He must declare to his opponent each time a Unit is destroyed this way. 
+
+If the Attacker is contesting (or control) any of the Objectives, they may enter from the closest Reserves zone to a contested Objective. Heroes can never be part of Reserves and cannot be brought back into the game in this manner.
 
 ### Objectives
 Players score VP for controlling or contesting the Objectives as follows:
@@ -132,7 +144,6 @@ Players score VP for controlling or contesting the Objectives as follows:
 - Turn 2 onwards, at the end of each Turn, each Controlled Objective is worth 2 VP. Each Contested is worth 1 VP.
 
 For this mission, it is highly recommended you play with Secondary Objectives.
-
 
 ### Victory Conditions
 Turn 4 onwards, at the end of each Turn, if one side controls all 3 Objectives and has more VP than the opponent, that side is the winner and game ends. Otherwise game ends at Turn 6 and highest VP wins the game, Defender breaks ties.
