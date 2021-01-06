@@ -134,9 +134,9 @@ Each Player:
 - Rubbles x 2
 
 ## Reserves
-Place all of the Attacker's destroyed units from Turn 1 to Turn 3 in Reserves and treat as fresh units. In Turn 4, all Reserves are part of the Attacker force again and must enter the board as per Deployment rules (enter from Attackers Deployment Edge). In Turn 3, the Attacker may choose to destroy any of his non-Hero infantry unit which has only 1 model left after finishing its Activation. He must declare to his opponent each time a Unit is destroyed this way. 
+Place the Attacker's destroyed units from Turn 1 to Turn 3 in Reserves and treat as fresh units. In Turn 4, up to 25% of the total game size in AP from Reserves can be chosen to be part of the Attacker force again and must enter the board as per Deployment rules (enter from Attackers Deployment Edge). Discard any remaining forces in Reserves.
 
-If the Attacker is contesting (or control) any of the Objectives, they may enter from the closest Reserves zone to a contested Objective. Heroes can never be part of Reserves and cannot be brought back into the game in this manner.
+If the Attacker is contesting (or controlling) any of the Objectives, they may enter from the closest Reserves zone to a contested Objective. Heroes can never be part of Reserves and cannot be brought back into the game in this manner.
 
 ### Objectives
 Players score VP for controlling or contesting the Objectives as follows:
