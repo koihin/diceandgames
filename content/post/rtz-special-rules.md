@@ -14,6 +14,8 @@ Here are the special rules for the campaign. We strongly encourage their use as 
 * [Suppression rules](#suppression-rules)
 * [Initiative](#initiative)
 * [Terrain and Fortifications](#terrain-and-fortifications)
+* [Height Advantage](#height-advantage)
+* [Height Difference and Close Combat](#height-difference-and-close-combat)
 
 
 ## Unified Saves Rules
