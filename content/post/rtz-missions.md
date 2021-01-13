@@ -13,6 +13,7 @@ List of missions for RTZ campaign:
 1. [Mission 1 - Another Day in the Doomed City](#mission-1---another-day-in-the-doomed-city)
 2. [Mission 2 - This Deadly Concrete Jungle](#mission-2---this-deadly-concrete-jungle)
 3. [Mission 3 - Symbol of the People!](#mission-3---symbol-of-the-people)
+4. [Mission 4 - Deep Strike](#mission-4---deep-strike)
 
 ***
 ## Mission 1 - Another Day in the Doomed City.
@@ -147,3 +148,38 @@ For this mission, it is highly recommended you play with Secondary Objectives.
 
 ### Victory Conditions
 Turn 4 onwards, at the end of each Turn, if one side controls all 3 Objectives and has more VP than the opponent, that side is the winner and game ends. Otherwise game ends at Turn 6 and highest VP wins the game, Defender breaks ties.
+
+***
+## Mission 4 - Deep Strike
+{{< figure src="/images/mission-a4-mat.png" link="/images/mission-a4-mat.png">}}
+
+### Description
+This is a typical mission and map for Zverograd, where many buildings having been reduced to rubble. Two buildings overlook two objectives (green square with O) of the scenario. The 4 Objectives represent control over the area over the course of the game.
+
+### Size of Game
+This scenario is suitable for Battle size games (80 to 100AP) with 100 AP being common. Commanders will need to study the layout carefully to decide what units to bring and anticipate what opposition you will face.
+
+### Deployment
+Attacker units enter board from the blue edge. Defender enter the board from the red edge. Standard deployment rules apply (but can be modified as required by the story).
+
+### Terrain
+The board has 2 buildings as their main features. The 4 Objectives are open spaces, do not provide Cover and do not block Line of Sight nor prevent Vehicles from entering or passing through. Follow the placement of Objectives as per the map.
+
+Before Deployment, starting with the Defender, place the following terrain pieces within Range 2 (Range 3 for tank-traps) of any Objective but not on the Objective itself, one terrain piece at a time, alternating between players. You cannot place a terrain piece within a building or with another terrain piece.
+
+Tank-Traps must be placed such that it is within Range 3 to two Green Objectives, if it is not possible to do so, replace the tank-trap with an ammo-crate or barbed wire.
+
+Each Player:
+- Ammo-Crates x 2
+- Tank-Traps x 2
+- Rubbles x 3
+
+### Objective
+Players score VP for controlling or contesting the Objectives as follows:
+- Turn 1 - no scoring of VPs.
+- Turn 2 onwards, at the end of each Turn, each Controlled Objective is worth 2 VP. Each Contested is worth 1 VP. Furthermore, if you do not control at least 1 yellow Objective that Turn, you do not score any VP from primary Objectives. if you control both yellow Objectives, you get a bonus 6 VP.
+
+For this mission, it is highly recommended you play with Secondary Objectives.
+
+### Victory Conditions
+Turn 4 onwards, at the end of each Turn, if one side controls both yellow Objectives and has more VPs than the other, that side is the winner and game ends. Otherwise game ends at Turn 6 and highest VP wins the game, Defender breaks ties.
