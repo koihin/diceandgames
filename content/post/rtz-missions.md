@@ -182,4 +182,4 @@ Players score VP for controlling or contesting the Objectives as follows:
 For this mission, it is highly recommended you play with Secondary Objectives.
 
 ### Victory Conditions
-Turn 4 onwards, at the end of each Turn, if one side controls both yellow Objectives and has more VPs than the other, that side is the winner and game ends. Otherwise game ends at Turn 6 and highest VP wins the game, Defender breaks ties.
+Turn 3 onwards, at the end of each Turn, if one side controls both yellow Objectives and has more VPs than the other, that side is the winner and game ends. Otherwise game ends at Turn 5 and highest VP wins the game, Defender breaks ties.
