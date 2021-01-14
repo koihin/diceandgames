@@ -9,7 +9,7 @@ Welcome to RTZ campaign central, where we get you into the game and update you o
 
 ## Map of Zverograd - At the Start of Round 3
 We are now into Round 3 of the RTZ campaign and things are heating up!
-{{< figure src="/images/zverograd-round-2.jpg" link="/images/zverograd-round-2.jpg">}}
+{{< figure src="/images/zverograd-round-3.jpg" link="/images/zverograd-round-3.jpg">}}
 Here is the map at the start of the Round. The bloc symbol shows who controls each location. If a location does not have a symbol it means no bloc dominates the location yet.
 
 Read about the [locations]({{< ref "/post/zverograd-districts-locations" >}}) you will be fighting over.
