@@ -27,6 +27,8 @@ This scenario is suitable for Skirmish to Battle size games (40 to 100) with 60-
 ### Deployment
 Attacker units enter board from the blue edge. Defender enter the board from the red edge. Standard deployment rules apply (but can be modified as required by the story).
 
+Due to the environmental challenges of Zverograd, Airborne Units cannot deploy within Range 2 of the enemy deployment zone.
+
 ### Terrain
 The board has 4 buildings as their main features. The 2 Objectives can be either open space or terrain pieces that provide Cover but should not block Line of Sight nor prevent Vehicles from entering or passing through.
 
@@ -69,6 +71,8 @@ This scenario is suitable for Battle to Big Battle size games (80 AP or larger) 
 ### Deployment
 Attacker units enter board from the blue edge. Defender enter the board from the red edge. Standard deployment rules apply (but can be modified as required by the story).
 
+Due to the environmental challenges of Zverograd, Airborne Units cannot deploy within Range 2 of the enemy deployment zone.
+
 ### Terrain
 The board has 4 buildings as their main features. The 4 Objectives are open spaces, do not provide Cover and do not block Line of Sight nor prevent Vehicles from entering or passing through. Follow the placement of Objectives as per the map.
 
@@ -107,6 +111,8 @@ This scenario is suitable for Battle to Big Battle size games (80 AP or larger) 
 
 ### Deployment
 Attacker units enter board from the blue edge. Defender enter the board from the red edge. The orange zone is where Reserves can enter, if they satisfy the conditions. Standard deployment rules apply (but can be modified as required by the story).
+
+Due to the environmental challenges of Zverograd, Airborne Units cannot deploy within Range 2 of the enemy deployment zone.
 
 ### Terrain
 The board has 5 buildings as their main features, the building closest to the Defender edge has a level 2 which provides Height Advantage up to Range 3.
@@ -161,6 +167,8 @@ This scenario is suitable for Battle size games (80 to 100AP) with 100 AP being 
 
 ### Deployment
 Attacker units enter board from the blue edge. Defender enter the board from the red edge. Standard deployment rules apply (but can be modified as required by the story).
+
+Due to the environmental challenges of Zverograd, Airborne Units cannot deploy within Range 2 of the enemy deployment zone.
 
 ### Terrain
 The board has 2 buildings as their main features. The 4 Objectives are open spaces, do not provide Cover and do not block Line of Sight nor prevent Vehicles from entering or passing through. Follow the placement of Objectives as per the map.
