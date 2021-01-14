@@ -1,7 +1,7 @@
 ---
 title: "Captured Vehicles"
 date: 2021-01-11T00:18:41+08:00
-featured_image: "/images/Cityfight.png"
+featured_image: "/images/joyful_mercs.jpg"
 description: "Using the AFVs of your enemies."
 tags: ["dust","rules","zverograd"]
 draft: false
@@ -46,3 +46,5 @@ For the RTZ campaign, due to the long period of close proximity, and the need to
 All captured Assaulters are armour class 1 instead of 2.
 
 The Assaulter is unavailable to the IJN forces due to logistics limitation and the RTZ campaign.
+
+Back to [Special Rules]({{< ref "/post/rtz-special-rules" >}})

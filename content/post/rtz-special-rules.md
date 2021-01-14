@@ -111,13 +111,13 @@ The Defender in a mission might be given the option to add an Strongpoint (10AP)
 If you are Higher than your target unit by Range 1 or more, your target must re-roll Infantry and Cover Saves (Structural Saves are not affected). If you are Lower by Range 1 or more, your target gains Cover Save.
 
 ## Height Difference and Close Combat
-Normally units on different height levels (Range 1 or greater) cannot Close Combat Attack (CC) each other. This can lead to a situation where Units can never CC a Unit at a different elevation due to lack of space on the same level.
+*Normally units on different height levels (Range 1 or greater) cannot Close Combat Attack (CC) each other. This can lead to a situation where Units can never CC a Unit at a different elevation due to lack of space on the same level.*
 
 Units can still CC by taking a Move Action to attempt to move into the target area (square) and taking an Attack/Sustained Attack Action for Close Combat only.
 
-If the attacking unit destroys the target Unit/s they must enter and occupy the target area. If they do not, they fall back into the adjacent area (square) they attacked from. They are always considered at different Height levels until CC is resolved.
+If the attacking unit destroys the target Unit/s (the square is now unoccupied), they must enter and occupy the target area. If they did not, they fall back into the adjacent area (square) they attacked from. They are always considered at different Height levels until CC is resolved.
 
-a) The Move Action can be a March Move provided the Attacking Unit has an Action left to engage in CC. For example, using Charge skill or having 3 Actions.
+a) The Move Action can be a March Move provided the Attacking Unit can engage in CC after the March Move, for example, using Charge skill or having 3 Actions.
 
 b) The Move Action must have enough Range to move the Attacking Unit into the Target square from where they are at the start of the Unit's Activation. The Move Action must be a legal move and terrain restrictions still apply.
 

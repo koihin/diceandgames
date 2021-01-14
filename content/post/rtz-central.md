@@ -20,12 +20,12 @@ You can see the previous rounds as they become available.
 With the clearing of the skies, Aircraft can now be requisitioned! Airborne troops have an opportunity to shine as well. Take note of any scenario specific rule for Airborne units in the missions.
 
 ## Round 3
+[Results]({{< ref "/post/rtz-round-3" >}}) from Round 3 are out! Allies-Axis launched a highly coordinated attack on the Mi-go creatures, even as the battles on the ground heated up!
 
 ## Round 2
-[Results]({{< ref "/post/rtz-round-2" >}}) from Round 2 are out!
+[Results]({{< ref "/post/rtz-round-2" >}}) from Round 2 are out! Skirmishes have broken out into larger battles. The entry of the IJN has shaked things up after a period of low-activity.
 
 Round 2 introduces [Secondary Objectives]({{< ref "/post/secondary-objectives" >}}).
-
 
 ## Round 1
 [Results]({{< ref "/post/rtz-round-1" >}}) from Round 1 are out!
