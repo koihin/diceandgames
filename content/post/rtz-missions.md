@@ -181,7 +181,7 @@ Players score VP for controlling or contesting the Objectives as follows:
 
 Furthermore, if you do not contest at least 1 yellow Objective that Turn, you do not score any VP from the Objectives (you can still score Secondary Objectives).
 
-If you control both yellow Objectives, you get a bonus 12 VP.
+If you control both yellow Objectives, you get a bonus 8 VP for a total of (4 + 8) 12 VP.
 
 For this mission, it is highly recommended you play with Secondary Objectives.
 
