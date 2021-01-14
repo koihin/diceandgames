@@ -177,9 +177,13 @@ Each Player:
 ### Objective
 Players score VP for controlling or contesting the Objectives as follows:
 - Turn 1 - no scoring of VPs.
-- Turn 2 onwards, at the end of each Turn, each Controlled Objective is worth 2 VP. Each Contested is worth 1 VP. Furthermore, if you do not control at least 1 yellow Objective that Turn, you do not score any VP from primary Objectives. if you control both yellow Objectives, you get a bonus 6 VP.
+- Turn 2 onwards, at the end of each Turn, each Controlled Objective is worth 2 VP. Each Contested is worth 1 VP.
+
+Furthermore, if you do not control at least 1 yellow Objective that Turn, you do not score any VP from the Objectives (you can still score Secondary Objectives).
+
+If you control both yellow Objectives, you get a bonus 12 VP.
 
 For this mission, it is highly recommended you play with Secondary Objectives.
 
 ### Victory Conditions
-Turn 3 onwards, at the end of each Turn, if one side controls both yellow Objectives and has more VPs than the other, that side is the winner and game ends. Otherwise game ends at Turn 5 and highest VP wins the game, Defender breaks ties.
+Turn 3 onwards, at the end of each Turn, if one side controls both yellow Objectives and has more VPs than the other, that side is the winner and the game ends. Otherwise game ends at Turn 5 and highest VP wins the game, Defender breaks ties.
