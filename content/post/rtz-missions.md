@@ -179,7 +179,7 @@ Players score VP for controlling or contesting the Objectives as follows:
 - Turn 1 - no scoring of VPs.
 - Turn 2 onwards, at the end of each Turn, each Controlled Objective is worth 2 VP. Each Contested is worth 1 VP.
 
-Furthermore, if you do not control at least 1 yellow Objective that Turn, you do not score any VP from the Objectives (you can still score Secondary Objectives).
+Furthermore, if you do not contest at least 1 yellow Objective that Turn, you do not score any VP from the Objectives (you can still score Secondary Objectives).
 
 If you control both yellow Objectives, you get a bonus 12 VP.
 
