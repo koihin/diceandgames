@@ -10,7 +10,7 @@ draft: false
 
 With supply lines stretched thin, this opportunism offers a way to replace badly damaged or destroyed equipment, such as AFVs. The down side to this equipment is that it can be difficult to maintain. Your Platoon's mechanic is likely unfamiliar with the design, any captured manuals are in a foreign language, and replacement parts are only available through salvaging other wrecks, capturing a supply depot, or fabricating them in the field.
 
-Regardless, having one of the enemy's Walkers sure beats having no Walkers on the field of battle and could mean the difference between life and death.
+Regardless, having one of the enemy's walkers sure beats having no walkers on the field of battle and could mean the difference between life and death.
 
 Each player may field only one Captured Vehicle in its force. Only the Vehicles in the list below may be fielded as a Captured Vehicle.
 

@@ -39,7 +39,7 @@ If playing a series of linked games that happens immediately one after another, 
 
 **Koshka's SMERSH KV-47 Platoon** is not available as airdrop operations are currently not possible. This may change in the coming Game Rounds.
 
-**[UPDATE]** Starting from Round 4, this platoon can be deployed.
+**[UPDATE]** Starting from Round 4, this platoon can be deployed. For this campaign note that the Platoon Advantage only applies to Units within the platoon.
 
 **Yakov's Stormwall Platoon** is only available to SSU Bloc forces (no faction units) and only if the SSU Bloc force starts the game as the defender (for multiple linked games using the same force over the same location, if the force becomes the Attacker it loses this Platoon Advantage).
 
