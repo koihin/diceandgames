@@ -16,6 +16,11 @@ Read about the [locations]({{< ref "/post/zverograd-districts-locations" >}}) yo
 
 You can see the previous rounds as they become available.
 
+## Round 4
+With the clearing of the skies, Aircraft can now be requisitioned! Airborne troops have an opportunity to shine as well. Take note of any scenario specific rule for Airborne units in the missions.
+
+## Round 3
+
 ## Round 2
 [Results]({{< ref "/post/rtz-round-2" >}}) from Round 2 are out!
 

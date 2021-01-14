@@ -16,6 +16,8 @@ Here are the special rules for the campaign. We strongly encourage their use as 
 * [Terrain and Fortifications](#terrain-and-fortifications)
 * [Height Advantage](#height-advantage)
 * [Height Difference and Close Combat](#height-difference-and-close-combat)
+* [Aircaft and Passengers](#aircraft-and-passengers)
+* [Captured Vehicles]({{< ref "/post/captured-vehicles" >}})
 
 
 ## Unified Saves Rules
@@ -120,3 +122,6 @@ a) The Move Action can be a March Move provided the Attacking Unit has an Action
 b) The Move Action must have enough Range to move the Attacking Unit into the Target square from where they are at the start of the Unit's Activation. The Move Action must be a legal move and terrain restrictions still apply.
 
 c) **I Have the High Ground** Defending Unit at a higher elevation in CC gains First Strike. Does not apply if the attacking Unit has Flying. If the attacking Unit also has First Strike, both First Strike skills cancel out.
+
+## Aircraft and passengers
+Refer to the latest rules errata on Aircraft. Also take note of the limitation to what weapons can be used by Passengers. Due to the unstable platform and height the aircraft is at, the range of all Passengers' weapons are halved, rounded down. If the weapon now has Range 0 it cannot be used. In addition, if the Aircraft Moved, all successful Hits must be re-rolled, hitting on BLOC and TARGET.
