@@ -11,9 +11,12 @@ Secondary Objectives can fit into any Mission where you are scoring VPs over X n
 
 Each Secondary Objective will score you 1 VP.
 
-You can never score for the same Secondary Objectives twice, but you can score for Multiple Objectives in the same Game Turn.
+You cannot score for the same Secondary Objectives twice, but you can score for Multiple Objectives in the same Game Turn.
 
-Here are Six Secondary Objectives for your use. They are by default open information, and if available to one player is available to the other. As the Rounds progressed we will see new Secondary Objectives as well different ways of using them.
+Here are the Secondary Objectives for your use. They are by default open information, and if available to one player is available to the other. As the Rounds progressed we will see new Secondary Objectives as well different ways of using them.
+
+## Selection
+After placement of terrain, select a number of Secondary Objectives up to the Turn limit from the list below. This forms your Secondary Objective cards pool that you can try to score for during the game. At this point you should know your opponent's army list (unless it is hidden information). Select cards that you think suit the mission and forces.
 
 ### 1. Hello There
 {{< figure src="/images/hello_there_objective.png" link="/images/hello_there_objective.png">}}
@@ -39,5 +42,5 @@ Now You Die conjures up scenes where the Hero goes up against the main villain.
 {{< figure src="/images/whaddya_mean_on_fire.png" link="/images/whaddya_mean_on_fire.png">}}
 
 ### 7. It's Going Down!
-Applies only to Aircraft with weapons or Vehicles class 6 and above. Can be scored at anytime from Turn 1 to Turn 4 before the Vehicle activates. Once it does, this Objective cannot be scored in this game.
 {{< figure src="/images/its_going_down_objective.png" link="/images/its_going_down_objective.png">}}
+Applies only to Aircraft with weapons or Vehicles class 6 and above. Can be scored at anytime from Turn 1 to Turn 4 before the Vehicle activates. Once it does, this Objective cannot be scored in this game.
