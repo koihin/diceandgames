@@ -40,7 +40,7 @@ All Vehicles (all classes) and Infantry class 3 and 4 gain Damage Resilient agai
 If a Hit does [DEATH] damage, Damage Resilient only applies to half the damage rounded up. For example, a KV-47 is Hit by a weapon that does [DEATH], instead of rolling for Damage Resilient against all 5 damage, it rolls only 3 (half rounded up).
 
 ## Suppression Rules
-*This replaces Suppression in the rulebook and affects Stunned in a small way.*
+*This replaces Suppression in the rulebook and allows the possibility of removing Stunned by Rallying.*
 
 A Unit can be in one of 3 Suppression states; the default is **None** (no suppression), **Suppressed**, and **Pinned**. Only Infantry class 1 and 2 can have a Pinned state, all other units including all Vehicles and Aircrafts ignore a Pinned result. All Heroes, by themselves, ignore a Pinned result as well. However, if joined to Infantry 1 or 2 unit it can be pinned as per the unit.
 
@@ -50,7 +50,8 @@ Rallying for a unit is conducted as usual. Roll 2 dice at the start of a unit's 
 
 All Heroes (including those joined to a Unit), Vehicles and Aircrafts, may choose to re-roll each Rally attempt. They must re-roll all dice and they must accept the second result, even if it is worse than the first.
 
-In addition when Rallying, if 2 [BLOC] are rolled, Stunned is removed as well, before the first Action of the unit.
+### Rallying from Stunned
+In addition when Rallying, if 2 [BLOC] are rolled and no [SHIELD] is showing, Stunned is removed as well, before the first Action of the unit.
 
 If a unit is still Suppressed or Pinned after Rallying, the first Action must be a Nothing Action. In addition, if a Unit is Pinned, it cannot attempt a Reactive Attack, and it loses any ability that grants them a third Action.
 
@@ -103,7 +104,7 @@ The Defender in a mission might be given the option to add an Strongpoint (10AP)
 
 - When deploying a Strongpoint/Bunker it must be the first terrain piece placed and be within range 4 of the deployment table edge. The back of the strongpoint and bunker must be accessible to infantry units by normal movement, thus can never be placed right up against the table edge.
 - The Infantry/Cover Save re-rolls from the rulebook are replaced by Structural Save and Improved Structural Save for Strongpoints and Bunkers respectively. To be clear, you apply Infantry/Cover Saves followed by the Structural Saves.
-- It is difficult for most weapons to fire into the front slit of the bunker as it is so narrow, you can only draw LoS to them if you are within Range 3 and their front arc. **Railguns, Teslas and Phasers are exempt from this rule.**
+- It is difficult for most weapons to fire into the front slit of the Bunker as it is so narrow, you can only draw LoS to them if you are within Range 3 and their front arc. **Railguns, Teslas and Phasers are exempt from this rule.**
 - It is difficult to engage in Close Combat through the front slit of a Bunker. Only C range weapon with a [Blast] symbol as its stats can engage in CC through the front.
 
 ## Height Advantage
@@ -124,4 +125,4 @@ b) The Move Action must have enough Range to move the Attacking Unit into the Ta
 c) **I Have the High Ground** Defending Unit at a higher elevation in CC gains First Strike. Does not apply if the attacking Unit has Flying. If the attacking Unit also has First Strike, both First Strike skills cancel out.
 
 ## Aircraft and passengers
-Refer to the latest rules errata on Aircraft. Also take note of the limitation to what weapons can be used by Passengers. Due to the unstable platform and height the aircraft is at, the range of all Passengers' weapons are halved, rounded down. If the weapon now has Range 0 it cannot be used. In addition, if the Aircraft Moved, all successful Hits must be re-rolled, hitting on BLOC and TARGET.
+Refer to the latest rules errata on Aircraft. Also take note of the limitation to what weapons can be used by Passengers. Due to the unstable platform and height the aircraft is at, the range of all Passengers' weapons are halved, rounded down. If the weapon now has Range 0 it cannot be used. Special Weapons of the following type cannot be used: Flamer, Laser, Phaser, Rail, Tesla. In addition, if the Aircraft Moved, all successful Hits must be re-rolled, hitting on BLOC and TARGET. This is the final re-roll, after all other applicable re-rolls are made, for example if using the Lucky Skill.
