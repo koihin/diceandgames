@@ -37,3 +37,7 @@ Now You Die conjures up scenes where the Hero goes up against the main villain.
 
 ### 6. Whaddya mean I'm on Fire?
 {{< figure src="/images/whaddya_mean_on_fire.png" link="/images/whaddya_mean_on_fire.png">}}
+
+### 7. It's Going Down!
+Applies only to Aircraft with weapons or Vehicles class 6 and above. Can be scored at anytime from Turn 1 to Turn 4 before the Vehicle activates. Once it does, this Objective cannot be scored in this game.
+{{< figure src="/images/its_going_down_objective.png" link="/images/its_going_down_objective.png">}}
