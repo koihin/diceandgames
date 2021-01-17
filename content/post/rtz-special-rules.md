@@ -1,11 +1,11 @@
 ---
-title: "Return to Zverograd Special Rules"
+title: "Enhance Dust with these Special Rules"
 date: 2020-10-30T00:18:41+08:00
 featured_image: "/images/sigrid-von-thaler.png"
-description: "Special Rules for the Campaign"
+description: "A modular set of special rules for your games of Dust 1947"
 tags: ["dust","rtz","zverograd","rules"]
 ---
-Here are the special rules for the campaign. We strongly encourage their use as we believe it will make your games more fun and exciting. However, it is your game, feel free to ignore any or all of them, in consultation with your opponent. Always remember, a great game experience for both you and your opponnent is the primary goal!
+Here are the special rules that were developed over years to make our favourite game better. We strongly encourage their use as we believe it will make your games more fun and exciting. However, it is your game, feel free to ignore any or all of them, in consultation with your opponent. Always remember, a great game experience for both you and your opponnent is the primary goal!
 
 * [Unified Saves Rules](#unified-saves-rules)
 * [Scout](#scout)
