@@ -1,18 +1,18 @@
 ---
-title: "Return to Zverograd Round 3 Results"
-date: 2021-01-13T00:18:41+08:00
+title: "Return to Zverograd Round 4 Results"
+date: 2021-01-23T00:18:41+08:00
 featured_image: "/images/zverograd-round-3.jpg"
-description: "The conflicts escalates, the Mythos are dormant"
+description: "The VTOL jetfighers and Helicopters vie for supremacy in the skies!"
 tags: ["dust","rtz","zverograd"]
 ---
-## Results from Round 3 are out!
-{{<round_3_results>}}
+## Results from Round 4 are out!
+{{<round_4_results>}}
 
 ## Zverograd Map  - Current Situation
 {{< figure src="/images/zverograd-round-3.jpg" link="/images/zverograd-round-3.jpg">}}
 
 ## The story so far...
-Story from Round 2 [here]({{< ref "/post/rtz-round-2" >}}).
+Story from Round 3 [here]({{< ref "/post/rtz-round-3" >}}).
 
 The third round saw no abatement of combat, now company sized battles dominate, entire battalions got deployed to retake districts.
 
