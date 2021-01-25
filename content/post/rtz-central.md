@@ -7,14 +7,17 @@ tags: ["dust","rtz","zverograd"]
 ---
 Welcome to RTZ campaign central, where we get you into the game and update you on the progress of the battle for the doomed city!
 
-## Map of Zverograd - At the Start of Round 3
-We are now into Round 3 of the RTZ campaign and things are heating up!
-{{< figure src="/images/zverograd-round-3.jpg" link="/images/zverograd-round-3.jpg">}}
+## Map of Zverograd - At the Start of Round 5
+We are now into Round 5 of the RTZ campaign and things are heating up!
+{{< figure src="/images/zverograd-round-4.jpg" link="/images/zverograd-round-4.jpg">}}
 Here is the map at the start of the Round. The bloc symbol shows who controls each location. If a location does not have a symbol it means no bloc dominates the location yet.
 
 Read about the [locations]({{< ref "/post/zverograd-districts-locations" >}}) you will be fighting over.
 
 You can see the previous rounds as they become available.
+
+## Round 5
+Aircrafts and heavy vehicles have started to appear in battles across the urban landscape, Big Battles are becoming the norm, rather than the exception!
 
 ## Round 4
 With the clearing of the skies, Aircraft can now be requisitioned! Airborne troops have an opportunity to shine as well. Take note of any scenario specific rule for Airborne units in the missions.
@@ -40,7 +43,7 @@ All verified results submitted by players are presented in different tabular for
 Most Missions will happen at a specific location in Zverograd. Refer to the current map as above. Choose a location accessible to both you and your opponent. Defender is determined by who currently controls the location. Otherwise determine it randomly. For ideas on how to setup a scenario for a location see above but you can always create your own based on the location you are fighting over! Sportsmanship should always prevail, when in doubt give the advantage to your opponent rather than yourself.
 
 ## Getting started with RTZ
-First step is to [sign up](https://forms.gle/qng9wfbqeB86rQwL8)! It is perfectly fine that the campaign is underway, you don't have to play every Round! Play as much (or little) as you wish! Round 1 starts 15 December 2020 and goes on for six weeks/rounds!
+First step is to [sign up](https://forms.gle/qng9wfbqeB86rQwL8)! It is perfectly fine that the campaign is underway, you don't have to play every Round! Play as much (or little) as you wish! Round 1 starts 15 December 2020 and goes on for six Rounds!
 
 ## Create your RTZ commander and force
 You need an RTZ legal force to go on missions. [Find out here.]({{< ref "/post/rtz-force-create-build" >}})

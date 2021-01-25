@@ -14,6 +14,7 @@ List of missions for RTZ campaign:
 2. [Mission 2 - This Deadly Concrete Jungle](#mission-2---this-deadly-concrete-jungle)
 3. [Mission 3 - Symbol of the People!](#mission-3---symbol-of-the-people)
 4. [Mission 4 - Deep Strike](#mission-4---deep-strike)
+5. [Mission 5 - Heart of the City](#mission-5---heart-of-the-city)
 
 ***
 ## Mission 1 - Another Day in the Doomed City.
@@ -181,6 +182,44 @@ Each Player:
 - Ammo-Crates x 2
 - Tank-Traps x 2
 - Rubbles x 3
+
+### Objective
+Players score VP for controlling or contesting the Objectives as follows:
+- Turn 1 - no scoring of VPs.
+- Turn 2 onwards, at the end of each Turn, each Controlled Objective is worth 2 VP. Each Contested is worth 1 VP.
+
+Furthermore, if you do not contest at least 1 yellow Objective that Turn, you do not score any VP from the Objectives (you can still score Secondary Objectives).
+
+If you control both yellow Objectives, you get a bonus 8 VP for a total of (4 + 8) 12 VP.
+
+For this mission, it is highly recommended you play with Secondary Objectives.
+
+### Victory Conditions
+Turn 3 onwards, at the end of each Turn, if one side controls both yellow Objectives and has more VPs than the other, that side is the winner and the game ends. Otherwise game ends at Turn 5 and highest VP wins the game, Defender breaks ties.
+
+***
+## Mission 5 - Heart of the City
+{{< figure src="/images/mission-a5-mat.png" link="/images/mission-a5-mat.png">}}
+
+### Description
+This is a typical mission and map for Zverograd, where many buildings having been reduced to rubble. Two buildings flank two objectives (green square with O) of the scenario. The 4 Objectives represent control over the area over the course of the game.
+
+### Size of Game
+This scenario is suitable for Battle to Big Battle size games (80 and up) with 100 AP being common. Commanders will need to study the layout carefully to decide what units to bring and anticipate what opposition you will face.
+
+### Deployment
+Attacker units enter board from the blue edge. Defender enter the board from the red edge. Standard deployment rules apply (but can be modified as required by the story).
+
+Due to the environmental challenges of Zverograd, Airborne Units cannot deploy within Range 2 of the enemy deployment zone.
+
+### Terrain
+The board has 2 buildings as their main features. The 4 Objectives are open spaces, do not provide Cover and do not block Line of Sight nor prevent Vehicles from entering or passing through. Follow the placement of Objectives as per the map. The purple squares are impassable terrain and block line of sight.
+
+Before Deployment, starting with the Defender, place the following terrain pieces within Range 2 of any Objective but not on the Objective itself, one terrain piece at a time, alternating between players. You cannot place a terrain piece within a building or with another terrain piece. You cannot place Rubbles on or adjacent to any deployment zone or yellow Objective.
+
+Each Player:
+- Ammo-Crates x 2
+- Rubbles x 4
 
 ### Objective
 Players score VP for controlling or contesting the Objectives as follows:
