@@ -20,7 +20,7 @@ You can see the previous rounds as they become available.
 Aircrafts and heavy vehicles have started to appear in battles across the urban landscape, Big Battles are becoming the norm, rather than the exception!
 
 ## Round 4
-With the clearing of the skies, Aircraft can now be requisitioned! Airborne troops have an opportunity to shine as well. Take note of any scenario specific rule for Airborne units in the missions.
+[Results]({{< ref "/post/rtz-round-4" >}}) from Round 4 are out! With the clearing of the skies, Aircraft can now be requisitioned! Airborne troops have an opportunity to shine as well. Take note of any scenario specific rule for Airborne units in the missions.
 
 ## Round 3
 [Results]({{< ref "/post/rtz-round-3" >}}) from Round 3 are out! Allies-Axis launched a highly coordinated attack on the Mi-go creatures, even as the battles on the ground heated up!

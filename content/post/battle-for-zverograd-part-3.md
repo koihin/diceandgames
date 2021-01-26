@@ -1,7 +1,7 @@
 ---
 title: "The Battle for Zverograd, Part Three"
 date: 2020-10-15T00:18:41+08:00
-featured_image: "/images/mi-go-sky.png"
+featured_image: "/images/mi-go-sky.jpg"
 description: "Part of a series on the Battle for Zverograd."
 tags: ["dust","zverograd"]
 ---

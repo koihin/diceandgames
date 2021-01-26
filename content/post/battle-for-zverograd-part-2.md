@@ -5,7 +5,7 @@ featured_image: "/images/zverograd2.jpg"
 description: "Part of a series on the Battle for Zverograd."
 tags: ["dust","zverograd"]
 ---
-Read [Part 1]({{< ref "/post/battle-for-zverograd-part-1" >}})of the Battle for Zverograd.
+Read [Part 1]({{< ref "/post/battle-for-zverograd-part-1" >}}) of the Battle for Zverograd.
 ## Winter Child
 {{<figure src="/images/winter-child-vs-zombies.jpg">}}
 For years, Earth’s major powers have been working on different ways to create superhuman soldiers. Many of these research programs began long before the war, but
@@ -68,3 +68,5 @@ The SSU have exhausted nearly all their reinforcements and Stavka has decided to
 The Allies have succeeded in their goal of taking control of the Western part of Zverograd. Their bold plan has worked, but at tremendous cost. Several elite regiments have been all but destroyed, and many others are barely fit for further combat. The “Zverograd Situation” has horrified Allied command, but they see no easy way to pull out of the city. Orders have arrived with strict instructions to minimize casualties as much as possible. No more soldiers’ lives should be lost on this front, and reinforcements will be scarce. This has caused Allied forces in Zverograd to follow their enemies’ lead and dig in as hard as possible.
 {{<figure src="/images/ssu-attack-central-station.png">}}
 The situation in the Doomed City is as precarious as ever, but the time for massive assaults has passed. None of the warring blocs are willing to risk sending large forces against heavy fortifications, so special forces squads are the order of the day. Each bloc hopes that these small, highly trained units will be able to tip the balance of the stalemate in Zverograd. The primary goal of all three blocs is to take complete control of the city’s Central Train Station. The SSU managed to transform this huge complex into the biggest warehouse in the city, stocking it with supplies before losing much of it to Allied and Axis assaults. Now everyone wants a piece of it, as supplies are growing very scarce. The Central Station was already heavily fortified before the war. Now—with all three blocs inside and desperate to get the upper hand—it’s one of the most dangerous places on the planet.
+
+Read [Part 3]({{< ref "/post/battle-for-zverograd-part-3" >}}) of the Battle for Zverograd.

@@ -1,7 +1,7 @@
 ---
 title: "Zverograd, Districts and Locations"
 date: 2020-10-10T00:18:41+08:00
-featured_image: "/images/map-zverograd.png"
+featured_image: "/images/map-zverograd.jpg"
 description: "What we are fighting over."
 tags: ["dust"]
 ---
@@ -9,11 +9,11 @@ In a Zverograd campaign, each battle will take place in a specific location. whe
 
 The map of Zverograd consists of twenty-seven locations. These locations are separated into districts. When planning terrain for your battle you can take inspiration from the description of the location. Not every location in Zverograd is an urban built-up area, you have open spaces and vegetation-filled areas too. By the time of the Return to Zverograd campaign, buildings with surviving floors beyond the ground floor is almost non-existent.
 
-*Join the [Return the Zverograd]({{< ref "post/rtz.md" >}}) campaign from any part of the world!*
+*Join the [Return the Zverograd]({{< ref "post/rtz-central.md" >}}) campaign from any part of the world!*
 
 ## Districts and Locations
 
-{{< figure src="/images/map-zverograd.png" title="City of Zverograd, download for more detailed view.">}}
+{{< figure src="/images/zverograd-round-4.jpg" title="City of Zverograd" link="/images/zverograd-round-4.jpg">}}
 
 
 * IMPORT/EXPORT DISTRICT
