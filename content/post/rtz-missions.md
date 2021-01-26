@@ -213,7 +213,7 @@ Attacker units enter board from the blue edge. Defender enter the board from the
 Due to the environmental challenges of Zverograd, Airborne Units cannot deploy within Range 2 of the enemy deployment zone.
 
 ### Terrain
-The board has 2 buildings as their main features. The 4 Objectives are open spaces, do not provide Cover and do not block Line of Sight nor prevent Vehicles from entering or passing through. Follow the placement of Objectives as per the map. The purple squares are impassable terrain and block line of sight.
+The board has 2 buildings as their main features. The 2 green Objectives are open spaces, do not provide Cover and do not block Line of Sight nor prevent units from entering or passing through. The 2 purple Objectives are impassable terrain and block line of sight. Follow the placement of Objectives as per the map. 
 
 Before Deployment, starting with the Defender, place the following terrain pieces within Range 2 of any Objective but not on the Objective itself, one terrain piece at a time, alternating between players. You cannot place a terrain piece within a building or with another terrain piece. You cannot place Rubbles on or adjacent to any deployment zone or yellow Objective.
 
