@@ -1,7 +1,7 @@
 ---
 title: "Return to Zverograd Missions"
 date: 2020-12-10T00:18:41+08:00
-featured_image: "/images/mission-a1-mat-half.png"
+featured_image: "/images/mission-a1-mat-half-sm.jpg"
 description: "Mission Briefings!"
 tags: ["dust","rtz","zverograd","missions"]
 ---
@@ -18,7 +18,7 @@ List of missions for RTZ campaign:
 
 ***
 ## Mission 1 - Another Day in the Doomed City.
-{{< figure src="/images/mission-a1-mat.png" link="/images/mission-a1-mat.png">}}
+{{< figure src="/images/mission-a1-mat-sm.jpg" link="/images/mission-a1-mat.png">}}
 ### Description
 This is a typical mission and map for Zverograd, the central area is surrounded by buildings (almost all floors are gone by now, and only empty husks of concrete remain), They provide Cover and are overlooking the two objectives (green square with O) of the scenario. The Objectives represent control over the area over the course of the game.
 
@@ -62,7 +62,7 @@ The winner is the player with the most VPs. If there is a tie, Defender wins.
 
 ***
 ## Mission 2 - This Deadly Concrete Jungle
-{{< figure src="/images/mission-a2-mat.png" link="/images/mission-a2-mat.png">}}
+{{< figure src="/images/mission-a2-mat-sm.jpg" link="/images/mission-a2-mat.png">}}
 ### Description
 This is a typical mission and map for Zverograd, the central area is surrounded by buildings (almost all floors are gone by now, and only empty husks of concrete remain), They provide Cover and are overlooking 4 Objectives (green square with O) of the scenario. The Objectives represent control over the area over the course of the game.
 
@@ -100,7 +100,7 @@ Turn 4 onwards, at the end of each Turn, if one side controls 3 or more Objectiv
 
 ***
 ## Mission 3 - Symbol of the People!
-{{< figure src="/images/mission-a3-mat.png" link="/images/mission-a3-mat.png">}}
+{{< figure src="/images/mission-a3-mat-sm.jpg" link="/images/mission-a3-mat.png">}}
 
 ### Description
 This mission and map is suitable for any location that has a symbolic monument at the centre of a plaza or avenue such as the Victory Plaza or October Revolution Avenue.
@@ -158,7 +158,7 @@ Turn 4 onwards, at the end of each Turn, if one side controls all 3 Objectives a
 
 ***
 ## Mission 4 - Deep Strike
-{{< figure src="/images/mission-a4-mat.png" link="/images/mission-a4-mat.png">}}
+{{< figure src="/images/mission-a4-mat-sm.jpg" link="/images/mission-a4-mat.png">}}
 
 ### Description
 This is a typical mission and map for Zverograd, where many buildings having been reduced to rubble. Two buildings overlook two objectives (green square with O) of the scenario. The 4 Objectives represent control over the area over the course of the game.
@@ -199,7 +199,7 @@ Turn 3 onwards, at the end of each Turn, if one side controls both yellow Object
 
 ***
 ## Mission 5 - Heart of the City
-{{< figure src="/images/mission-a5-mat.png" link="/images/mission-a5-mat.png">}}
+{{< figure src="/images/mission-a5-mat-sm.jpg" link="/images/mission-a5-mat.png">}}
 
 ### Description
 This is a typical mission and map for Zverograd, where many buildings having been reduced to rubble. Two buildings flank two objectives (green square with O) of the scenario. The 4 Objectives represent control over the area over the course of the game.
@@ -213,7 +213,7 @@ Attacker units enter board from the blue edge. Defender enter the board from the
 Due to the environmental challenges of Zverograd, Airborne Units cannot deploy within Range 2 of the enemy deployment zone.
 
 ### Terrain
-The board has 2 buildings as their main features. The 2 green Objectives are open spaces, do not provide Cover and do not block Line of Sight nor prevent units from entering or passing through. The 2 purple Objectives are impassable terrain and block line of sight. Follow the placement of Objectives as per the map. 
+The board has 2 buildings as their main features. The 2 green Objectives are open spaces, do not provide Cover and do not block Line of Sight nor prevent units from entering or passing through. The 2 purple Objectives are impassable terrain and block line of sight. Follow the placement of Objectives as per the map.
 
 Before Deployment, starting with the Defender, place the following terrain pieces within Range 2 of any Objective but not on the Objective itself, one terrain piece at a time, alternating between players. You cannot place a terrain piece within a building or with another terrain piece. You cannot place Rubbles on or adjacent to any deployment zone or yellow Objective.
 
