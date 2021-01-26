@@ -1,7 +1,7 @@
 ---
 title: "RTZ: Building a Force for the Campaign"
 date: 2020-10-30T00:18:41+08:00
-featured_image: "/images/sigrid-von-thaler.png"
+featured_image: "/images/sigrid-von-thaler.jpeg"
 description: "Everything begins with your commander."
 tags: ["dust","rtz","zverograd"]
 ---

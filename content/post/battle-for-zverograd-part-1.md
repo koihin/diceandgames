@@ -44,7 +44,7 @@ At 5:30 a.m., the Axis assault started. The initial push from the north was made
 From the south, the 2nd FußPanzer Grenadier Division, “Leibstandarte Erwin Rommel,” made its initial thrust using an elite combined force of Sturmgrenadiere units and Panzer KampfLäufers. After the initial shock, the
 4th Blutkreuz Korps Kommando leapt into action, cutting off supplies and communications from behind enemy lines. The morale-eroding effect of squads of Zombies in a frontal assault again proved catastrophic to SSU defenders, and squads of Axis Gorillas crushed SSU strongpoints and destroyed artillery weapons.
 
-{{< figure src="/images/ssu-kv3m-babushka.png" title="SSU KV-3M 'Babushka' walker">}}
+{{< figure src="/images/ssu-kv3m-babushka.jpg" title="SSU KV-3M 'Babushka' walker">}}
 
 Realizing that a full-scale assault was underway, the HQ of the 13th Red Banner Army informed the Stavka of the situation and proceeded to mobilize all of its reserves. The 1st Red Guards Motor Rifle Division was rushed to the front, their tanks carrying most of the soldiers of the 10th SSU Rifle Division. However, to protect them from artillery fire, these elite forces had been placed some 20 kilometers east of Zverograd, and were therefore almost 40 kilometers from the action when it started. The hope was to engage Axis forces in open terrain, well beyond the city’s outskirts, but they would arrive too late to prevent the attackers from reaching the city.
 

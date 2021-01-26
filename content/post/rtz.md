@@ -1,7 +1,7 @@
 ---
 title: "Return to Zverograd!"
 date: 2020-11-24T00:18:41+08:00
-featured_image: "/images/steel-guards-zverograd.png"
+featured_image: "/images/steel-guards-zverograd.jpeg"
 description: "Play in our narrative campaign and stand a chance to win Alex!"
 tags: ["dust"]
 ---
