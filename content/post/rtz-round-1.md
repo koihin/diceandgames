@@ -1,7 +1,7 @@
 ---
 title: "Return to Zverograd Round 1 Results"
 date: 2020-12-23T00:18:41+08:00
-featured_image: "/images/zverograd-round-1.jpg"
+featured_image: "/images/zverograd-round-1-sm.jpg"
 description: "An explosive start!"
 tags: ["dust","rtz","zverograd"]
 ---
@@ -14,7 +14,7 @@ Rumours abound they are in alliance with another power in Zverograd but which bl
 {{<round_1_results>}}
 
 ## Zverograd Map  - Current Situation
-{{< figure src="/images/zverograd-round-1.jpg" link="/images/zverograd-round-1.jpg">}}
+{{< figure src="/images/zverograd-round-sm.jpg" link="/images/zverograd-round-1.jpg">}}
 
 ## Summary of Round 1
 Great Hotel of the Red Flag, Victory Plaza and Botanical Garden saw the bulk of the battles, most were skirmish affairs involving mostly platoon sized engagements. These were not unexpected as they are critical locations in Zverograd and nexus points within their own districts.

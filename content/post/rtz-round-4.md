@@ -1,7 +1,7 @@
 ---
 title: "Return to Zverograd Round 4 Results"
 date: 2021-01-23T00:18:41+08:00
-featured_image: "/images/zverograd-round-4.jpg"
+featured_image: "/images/zverograd-round-4-sm.jpg"
 description: "The VTOL jetfighers and Helicopters vie for supremacy in the skies!"
 tags: ["dust","rtz","zverograd"]
 ---
@@ -9,7 +9,7 @@ tags: ["dust","rtz","zverograd"]
 {{<round_4_results>}}
 
 ## Zverograd Map  - Current Situation
-{{< figure src="/images/zverograd-round-4.jpg" link="/images/zverograd-round-4.jpg">}}
+{{< figure src="/images/zverograd-round-4-sm.jpg" link="/images/zverograd-round-4.jpg">}}
 
 ## The story so far...
 Story from Round 3 [here]({{< ref "/post/rtz-round-3" >}}).

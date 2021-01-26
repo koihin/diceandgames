@@ -1,7 +1,7 @@
 ---
 title: "Return to Zverograd Round 3 Results"
 date: 2021-01-13T00:18:41+08:00
-featured_image: "/images/zverograd-round-3.jpg"
+featured_image: "/images/zverograd-round-3-sm.jpg"
 description: "The conflicts escalates, the Mythos are dormant"
 tags: ["dust","rtz","zverograd"]
 ---
@@ -9,7 +9,7 @@ tags: ["dust","rtz","zverograd"]
 {{<round_3_results>}}
 
 ## Zverograd Map  - Current Situation
-{{< figure src="/images/zverograd-round-3.jpg" link="/images/zverograd-round-3.jpg">}}
+{{< figure src="/images/zverograd-round-3-sm.jpg" link="/images/zverograd-round-3.jpg">}}
 
 ## The story so far...
 Story from Round 2 [here]({{< ref "/post/rtz-round-2" >}}).
