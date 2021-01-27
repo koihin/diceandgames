@@ -9,7 +9,7 @@ In the early 1930s the Central Committee of the Communist Party of the Soviet Un
 
 *Join the [Return the Zverograd]({{< ref "post/rtz.md" >}}) campaign from any part of the world!*
 
-{{< figure src="/images/city-of-zverograd-sm.png" title="Map of the city of Zverograd">}}
+{{< figure src="/images/city-of-zverograd-sm.jpg" title="Map of the city of Zverograd">}}
 
 The best architects in the USSR gathered to plan the city. They decided to create a brand new metro system that would allow workers to quickly reach their factories and move around the city. They designed wide avenues to accommodate stunning parades. They planned modern roads and bridges to connect all parts of the city. They designed the central sewer system to support a much bigger population, expecting Zverograd to grow into one of the largest cities in all the Soviet Union.
 
