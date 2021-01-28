@@ -82,6 +82,8 @@ Here are some additional terrain types you add to your game, and where applicabl
 - Wheeled Vehicles when entering a barbed wire square, roll 1 die. On a [TARGET] the wires gets entangled with the Vehicle and it must stop movement immediately. The barbed wire is destroyed and the Vehicle can move normally when it next activates.
 - All other Vehicles destroys Barbed Wires when they enter and are otherwise unaffected.
 
+### Rubble
+Rubble do not block line of sight but provide Cover for Infantry Units within the rubble. Infantry, Walkers and Tracked Vehicles can move through a Rubble, but only Infantry Units can occupy a Rubble. Rubble affects movement of Vehicles. If a Vehicle moves through Rubble, its Move/March Move for that Activation is reduced by 1 (to a minimum of 1). When a Tracked Vehicle goes through rubble, roll a die. On a [TARGET] the Vehicle finishes its movement, gains a Stunned token and ends its Activation immediately (even if it has Actions left). Wheeled Vehicles cannot enter Rubble terrain.
 
 ### Trenches
 *Another staple of modern warfare are trenches. Defensive positions designed to protect the infantry from direct fire and artillery fire, trenches are often the infantry’s only means of staying alive. It’s also the quickest and cheapest way of fortifying an area (if you have a shovel of course) and as such is favored by soldiers and their commanders alike. On the field there’s no better use of your time than to dig-in for the coming battle.*

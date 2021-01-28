@@ -1,7 +1,7 @@
 ---
 title: "Zverograd - Allies Forces"
 date: 2020-10-23T00:18:41+08:00
-featured_image: "/images/axis-airfield.jpg"
+featured_image: "/images/alliesarmy.jpg"
 description: "Building a force for your Allies army."
 tags: ["dust","rtz","zverograd"]
 ---
