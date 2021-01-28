@@ -18,7 +18,7 @@ tags: ["dust","rtz","zverograd"]
 Smaller than division level forces may not be tracked. When creating the backstory for your force you are free to create one that you think fits the narrative. Most forces will be at Platoon size, but remember, you can be at the core of a company that is not fully represented on the tabletop but appears in your story. There has been so many organisational changes over the years that companies and battalions can vary wildly in size, some companies are no bigger than a large platoon.
 
 ## KV-47 Walkers (all variants)
-{{<figure src="/images/kv47-array.png">}}
+{{<figure src="/images/kv47-array.jpg">}}
 *With the success of the KV-47 series of nimble walkers, the need to standardise production became essential as VK is a highly fought over resource within the different factions of the SSU.*
 
 With the exception of Koshka's Grand'ma, all SSU KV-47s (including tropical variants) now have 5 Health instead of 6.

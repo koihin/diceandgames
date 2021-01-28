@@ -1,7 +1,7 @@
 ---
 title: "Blutkreuz Elite Laser Grenadier Platoon"
 date: 2020-10-12T00:18:41+08:00
-featured_image: "/images/elite-laser-grenadier-platoon.png"
+featured_image: "/images/elite-laser-grenadier-platoon.jpg"
 description: "Alternative platoon for the elite infantry of the Blutkreuz"
 tags: ["dust","rtz","axis","blutkreuz"]
 ---

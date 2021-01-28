@@ -29,7 +29,7 @@ Ten days before the assault, the Ninth Army received an intelligence report from
 *“Zverograd aeorodrome now under complete Axis control. First objective to fall during initial Axis attack. Airfield too close to the front for sustained enemy operations. Tarmac extensively bombed by SSU. Suspect additional damage from Allied sorties as well. Few landings by enemy aircraft, with frequent crashes.*
 
 *Airfield in secondary use as enemy airdrop zone. Axis can recover supplies and have secure access to metro system directly from their rear base. Also control metro section between Airfield and New Town stations on Blue Line. Troops sighted massing there under cover for assault on city.*
-{{<figure src="/images/axis-airfield.png">}}
+{{<figure src="/images/axis-airfield.jpg">}}
 *Critical: new Axis aircraft sighted at airfield, not in ASOCOM field recognition guide. Capable of vertical take-off and landings. Fuselage shaped as single wing, displays powerful jet engines at rear edge.*
 
 *Infantry presence moderate. Airfield protected by light infantry formation (level 2 cuirass) at company strength. Heavier, veteran formations (level 3 cuirass) pass through en route to city. Few repeat sightings of heavier units; suspect Axis underground complex in city center. Axis losses to SSU and Allied advance forces is suspected to be heavy.*
@@ -52,7 +52,7 @@ The final days of the battle for Zverograd have arrived. The three blocs send th
 The morale of soldiers in Zverograd is at an all time low. It’s just a matter of time before the city gets to you. The best a soldier can hope for is to be seriously wounded and sent home. Everything is in short supply: food, ammunition, water. The opposing blocs are no longer the only threat to a soldier’s life. The veterans of the battle of Stalingrad know well that hunger and thirst make terrible enemies, and every day is now a struggle for survival in Zverograd.
 
 Thanks to their extensive air fleet, the Allies have suffered less than the two other blocs . A massive campaign of para- chuting supplies into Zverograd has worked so far, but the Axis and the SSU are beginning to increase their capacity for airborne combat, threatening Allied dominance of the skies. As Allied resupply missions become less frequent, the fighting over the city’s few remaining supplies grows increasingly desperate.
-{{<figure src="/images/allies-vs-axis-central-station.png">}}
+{{<figure src="/images/allies-vs-axis-central-station.jpg">}}
 To make matters worse, two old foes are about to clash once again. American war hero Joe Brown has been stuck in the Doomed City for months now. His best efforts have been unable to tip the balance in favour of the Allies, and the waking nightmare that is Zverograd has begun to change him. He has gained more than a few white hairs over the last few months, but he has also learned to be more cautious and calculating, making him deadlier than ever. Meanwhile, Generalmajor Sigrid von Thaler, Joe’s arch-nemesis, has arrived in the city with some of her latest creations from the dreadful labs of the Blutkreuz Korps.
 
 ## Fortress Zverograd
