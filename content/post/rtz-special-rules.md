@@ -1,7 +1,7 @@
 ---
 title: "Enhance Dust with these Special Rules"
 date: 2020-10-30T00:18:41+08:00
-featured_image: "/images/sigrid-von-thaler.png"
+featured_image: "/images/sigrid-von-thaler.jpg"
 description: "A modular set of special rules for your games of Dust 1947"
 tags: ["dust","rtz","zverograd","rules"]
 ---
