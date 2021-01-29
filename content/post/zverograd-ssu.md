@@ -1,7 +1,7 @@
 ---
 title: "Zverograd - SSU Forces"
 date: 2020-10-24T00:18:41+08:00
-featured_image: "/images/ssu-forces.png"
+featured_image: "/images/ssu-forces.jpg"
 description: "Building a force for your SSU army."
 tags: ["dust","rtz","zverograd"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Return to Zverograd Campaign Central"
 date: 2020-11-20T00:18:41+08:00
-featured_image: "/images/Cityfight.png"
+featured_image: "/images/Cityfight.jpg"
 description: "Your pit-stop for all your RTZ goodness!"
 tags: ["dust","rtz","zverograd"]
 ---

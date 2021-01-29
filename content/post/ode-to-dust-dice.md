@@ -1,7 +1,7 @@
 ---
 title: "Ode to Dust Dice"
 date: 2021-01-10T00:18:41+08:00
-featured_image: "/images/Cityfight.png"
+featured_image: "/images/Cityfight.jpg"
 description: "The beauty of the dice used in Dust"
 tags: ["dust","dice","statistics","game design"]
 draft: true
