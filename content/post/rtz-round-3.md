@@ -9,7 +9,7 @@ tags: ["dust","rtz","zverograd"]
 {{<round_3_results>}}
 
 ## Zverograd Map  - Current Situation
-{{< figure src="/images/zverograd-round-3-sm.jpg" link="/images/zverograd-round-3.jpg">}}
+{{< figure src="/images/zverograd-round-3-sm.jpg" alt="Zverograd Round 3 Map" link="/images/zverograd-round-3.jpg">}}
 
 ## The story so far...
 Story from Round 2 [here]({{< ref "/post/rtz-round-2" >}}).

@@ -21,11 +21,11 @@ Smaller than division level forces may not be tracked. When creating the backsto
 Normal army list building rules applies for all factions unless otherwise stated.
 
 ## USMC War Dogs Recon squad
-{{<figure src="/images/usmc-war-dogs.jpg">}}
+{{<figure src="/images/usmc-war-dogs.jpg" alt="USMC War Dogs">}}
 A dog may be man's best friend, but last we checked, it isn't a man. War Dogs Recon squad is a 3-men unit, not 5. The dogs are treated as CC weapons.
 
 ## Heavy Rangers
-{{<figure src="/images/heavy-ranger-attack.jpg">}}
+{{<figure src="/images/heavy-ranger-attack.jpg" alt="Heavy Ranger Attack Squad">}}
 Extensive field usage allowed Allies engineers to correct for structural flaws in their XM-18 series power armour. All Heavy Rangers gain [Structural Save]({{< ref "/post/dust-unified-saves" >}}).
 
 ## Bloc Veterans
@@ -34,7 +34,7 @@ Extensive field usage allowed Allies engineers to correct for structural flaws i
 If fielding an Allies Bloc army (75% bloc, no faction units), the faction bonus is 15% instead of 10%, any fraction is rounded up.
 
 ## Partnership with Justine & Co.
-{{< figure src="/images/justine-co-special.jpg">}}
+{{< figure src="/images/justine-co-special.jpg" alt="Justine and Co">}}
 *The Allies have awarded a hefty contract to Justine & Co. for maintenance of their various war machines in different theatres. The ladies are popular with the boys both on and off the field.*
 
 If fielding an Allies Bloc army (75% bloc, no faction units) and bringing 2 Vehicles or more where at least one of them is armour class 4 and above, you may add a Justine & Co. Unit for free, i.e. it costs 0AP. You cannot add a Justine & Co. as part of your normal list building. A list will never have more than one Justine & Co. Unit.

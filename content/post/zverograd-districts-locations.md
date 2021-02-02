@@ -13,7 +13,7 @@ The map of Zverograd consists of twenty-seven locations. These locations are sep
 
 ## Districts and Locations
 
-{{< figure src="/images/zverograd-round-4.jpg" title="City of Zverograd" link="/images/zverograd-round-4.jpg">}}
+{{< figure src="/images/zverograd-round-4.jpg" alt="Map of Zverograd" title="City of Zverograd" link="/images/zverograd-round-4.jpg">}}
 
 
 * IMPORT/EXPORT DISTRICT

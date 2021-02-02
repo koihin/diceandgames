@@ -2,11 +2,11 @@
 date: 2020-08-10T11:00:59-04:00
 description: "Unified Saves"
 featured_image: ""
-tags: [dust]
+tags: ["dust","rtz","allies","rangers"]
 title: "Dust Unified Saves Table"
 ---
 
-{{< figure src="/images/dust-unified-saves-chart.png" >}}
+{{< figure src="/images/dust-unified-saves-chart.png" alt="Dust Unified Saves Chart">}}
 
 ## Saves in Dust 1947
 

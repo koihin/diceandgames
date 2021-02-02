@@ -2,7 +2,7 @@
 date: 2020-08-09T11:00:59-04:00
 description: "Learn to play and handy reference"
 featured_image: "/images/field_guide_to_dust.png"
-tags: [dust]
+tags: ["dust","rtz","dust 1947","rules"]
 title: "Get A Free Field Guide to Dust 1947"
 draft: true
 ---

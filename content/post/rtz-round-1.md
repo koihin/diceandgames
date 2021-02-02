@@ -5,16 +5,16 @@ featured_image: "/images/zverograd-round-1-sm.jpg"
 description: "An explosive start!"
 tags: ["dust","rtz","zverograd"]
 ---
-## The story so far...
-The sudden introduction of the Imperial Japanese Navy forces acted as a catalyst for a surge in the level of conflict. Where previously the greatest threat were the monsters above and monsters below, now the blocs are making incursions into each other's territories. The IJN are the most enigmatic of all, striking from seemingly out of nowhere, crossing uncrossable barriers. Yet they dissolve after a fight as if not keen to hold on to any particular location.
-
-Rumours abound they are in alliance with another power in Zverograd but which bloc is it and what is their agenda? Regardless, there is sudden renewed interest in Zverograd from high up, and taking down the Mythos aerial threat becomes a priority. A clandestine meeting is arranged...
-
 ## Results from Round 1 are out!
 {{<round_1_results>}}
 
 ## Zverograd Map  - Current Situation
-{{< figure src="/images/zverograd-round-sm.jpg" link="/images/zverograd-round-1.jpg">}}
+{{< figure src="/images/zverograd-round-1-sm.jpg" alt="Zverograd Round 1 Map" link="/images/zverograd-round-1.jpg">}}
+
+## The story so far...
+The sudden introduction of the Imperial Japanese Navy forces acted as a catalyst for a surge in the level of conflict. Where previously the greatest threat were the monsters above and monsters below, now the blocs are making incursions into each other's territories. The IJN are the most enigmatic of all, striking from seemingly out of nowhere, crossing uncrossable barriers. Yet they dissolve after a fight as if not keen to hold on to any particular location.
+
+Rumours abound they are in alliance with another power in Zverograd but which bloc is it and what is their agenda? Regardless, there is sudden renewed interest in Zverograd from high up, and taking down the Mythos aerial threat becomes a priority. A clandestine meeting is arranged...
 
 ## Summary of Round 1
 Great Hotel of the Red Flag, Victory Plaza and Botanical Garden saw the bulk of the battles, most were skirmish affairs involving mostly platoon sized engagements. These were not unexpected as they are critical locations in Zverograd and nexus points within their own districts.

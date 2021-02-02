@@ -5,6 +5,12 @@ featured_image: "/images/zverograd-round-2-sm.jpg"
 description: "An explosive start!"
 tags: ["dust","rtz","zverograd"]
 ---
+## Results from Round 2 are out!
+{{<round_2_results>}}
+
+## Zverograd Map  - Current Situation
+{{< figure src="/images/zverograd-round-2-sm.jpg" alt="Zverograd Round 2 Map" link="/images/zverograd-round-2.jpg">}}
+
 ## The story so far...
 Story from Round 1 [here]({{< ref "/post/rtz-round-1" >}}).
 
@@ -26,14 +32,6 @@ Coincidentally the various heretical cults appear to have gone underground, to w
 On a cold dawn in early September, the roar of a full squadron of Axis VTOL jet-fighters could be heard headed directly for the historical district where the Mi-Go winged terrors nested. As were their wont, the Mi-Gos sluggishly took flight at approaching Aircrafts and flapped towards them to engage. The highly manoeuvrable aircrafts began to weave and turn to avoid the Mi-Gos while strafing the ground, rousing more of the vile creatures to rise. As more and more Mi-gos took to the air, it became clear to ground observers the jet-fighters were attempting to lure the Mi-Gos away from the airspace above the Historical District.
 
 At that moment a swarm of Allies P48s came in low over the Caspian Sea, skimming just above the jagged upper floors of the ruined buildings like gigantic dragonflies. Eagle-eyed persons would have further noted they appeared to be carrying unfamiliar payloads. The coordinated attempt to re-take the airspace over Zverograd had begun...
-
-
-## Results from Round 2 are out!
-{{<round_2_results>}}
-
-## Zverograd Map  - Current Situation
-{{< figure src="/images/zverograd-round-2-sm.jpg" link="/images/zverograd-round-2.jpg">}}
-
 
 
 ## Some Numbers
