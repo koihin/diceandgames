@@ -2,7 +2,7 @@
 title: "Return to Zverograd Missions"
 date: 2020-12-10T00:18:41+08:00
 featured_image: "/images/mission-a1-mat-half-sm.jpg"
-description: "Mission Briefings!"
+description: "Mission Briefings! A whole series of missions for different game sizes in an urban environment."
 tags: ["dust","rtz","zverograd","missions"]
 ---
 *We provide missions that we think will be fun and thematic for RTZ. You are not limited to these missions and in fact we believe our players can come up with better scenarios on their own! Contact us with your scenarios, we would love to feature them! When in doubt, always consult your opponent and arrive at a mutually agreeable scenario, giving the advantage to your opponent if there is any uncertainty like a gentleman!*
@@ -15,10 +15,11 @@ List of missions for RTZ campaign:
 3. [Mission 3 - Symbol of the People!](#mission-3---symbol-of-the-people)
 4. [Mission 4 - Deep Strike](#mission-4---deep-strike)
 5. [Mission 5 - Heart of the City](#mission-5---heart-of-the-city)
+6. [Mission 6 - No Guts No Glory](#mission-6---no-guts-no-glory)
 
 ***
 ## Mission 1 - Another Day in the Doomed City.
-{{< figure src="/images/mission-a1-mat-sm.jpg" link="/images/mission-a1-mat.png">}}
+{{< figure src="/images/mission-a1-mat-sm.jpg" alt="Mission 1 Mat" link="/images/mission-a1-mat.png">}}
 ### Description
 This is a typical mission and map for Zverograd, the central area is surrounded by buildings (almost all floors are gone by now, and only empty husks of concrete remain), They provide Cover and are overlooking the two objectives (green square with O) of the scenario. The Objectives represent control over the area over the course of the game.
 
@@ -62,7 +63,7 @@ The winner is the player with the most VPs. If there is a tie, Defender wins.
 
 ***
 ## Mission 2 - This Deadly Concrete Jungle
-{{< figure src="/images/mission-a2-mat-sm.jpg" link="/images/mission-a2-mat.png">}}
+{{< figure src="/images/mission-a2-mat-sm.jpg" alt="Mission 2 Mat" link="/images/mission-a2-mat.png">}}
 ### Description
 This is a typical mission and map for Zverograd, the central area is surrounded by buildings (almost all floors are gone by now, and only empty husks of concrete remain), They provide Cover and are overlooking 4 Objectives (green square with O) of the scenario. The Objectives represent control over the area over the course of the game.
 
@@ -100,7 +101,7 @@ Turn 4 onwards, at the end of each Turn, if one side controls 3 or more Objectiv
 
 ***
 ## Mission 3 - Symbol of the People!
-{{< figure src="/images/mission-a3-mat-sm.jpg" link="/images/mission-a3-mat.png">}}
+{{< figure src="/images/mission-a3-mat-sm.jpg" alt="Mission 3 Mat" link="/images/mission-a3-mat.png">}}
 
 ### Description
 This mission and map is suitable for any location that has a symbolic monument at the centre of a plaza or avenue such as the Victory Plaza or October Revolution Avenue.
@@ -158,7 +159,7 @@ Turn 4 onwards, at the end of each Turn, if one side controls all 3 Objectives a
 
 ***
 ## Mission 4 - Deep Strike
-{{< figure src="/images/mission-a4-mat-sm.jpg" link="/images/mission-a4-mat.png">}}
+{{< figure src="/images/mission-a4-mat-sm.jpg" alt="Mission 4 Mat" link="/images/mission-a4-mat.png">}}
 
 ### Description
 This is a typical mission and map for Zverograd, where many buildings having been reduced to rubble. Two buildings overlook two objectives (green square with O) of the scenario. The 4 Objectives represent control over the area over the course of the game.
@@ -199,7 +200,7 @@ Turn 3 onwards, at the end of each Turn, if one side controls both yellow Object
 
 ***
 ## Mission 5 - Heart of the City
-{{< figure src="/images/mission-a5-mat-sm.jpg" link="/images/mission-a5-mat.png">}}
+{{< figure src="/images/mission-a5-mat-sm.jpg" alt="Mission 5 Mat" link="/images/mission-a5-mat.png">}}
 
 ### Description
 This is a typical mission and map for Zverograd, where many buildings having been reduced to rubble. Two buildings flank two objectives (green square with O) of the scenario. The 4 Objectives represent control over the area over the course of the game.
@@ -234,3 +235,40 @@ For this mission, it is highly recommended you play with Secondary Objectives.
 
 ### Victory Conditions
 Turn 3 onwards, at the end of each Turn, if one side controls both yellow Objectives and has more VPs than the other, that side is the winner and the game ends. Otherwise game ends at Turn 5 and highest VP wins the game, Defender breaks ties.
+
+***
+## Mission 6 - No Guts No Glory
+{{< figure src="/images/mission-a6-mat-sm.jpg" alt="Mission 6 Mat" link="/images/mission-a6-mat.png">}}
+
+### Description
+This is a typical mission and map for Zverograd, where many buildings having been reduced to rubble. The 4 Objectives represent control over the area over the course of the game.
+
+### Size of Game
+This scenario is suitable for Battle to Big Battle size games (80 and up) with 100-120 AP being common. Commanders will need to study the layout carefully to decide what units to bring and anticipate what opposition you will face.
+
+### Deployment
+Attacker units enter board from the blue edge. Defender enter the board from the red edge. Standard deployment rules apply (but can be modified as required by the story).
+
+Due to the environmental challenges of Zverograd, Airborne Units cannot deploy within Range 2 of the enemy deployment zone.
+
+### Terrain
+The board has 2 buildings as their main features. The 4 Objectives are open spaces, do not provide Cover and do not block Line of Sight nor prevent units from entering or passing through.
+
+Before Deployment, starting with the Defender, place the following terrain pieces within Range 2 (Range 3 for tank-traps) of any Objective but not on the Objective itself, one terrain piece at a time, alternating between players. You cannot place a terrain piece within a building or with another terrain piece. Tank Traps must be placed within Range 3 to 2 objectives.
+
+Each Player:
+- Ammo-Crates x 2
+- Rubbles x 3
+- Tank Trap x 1
+
+### Objective
+Players score VP for controlling or contesting the Objectives as follows:
+- Turn 1 - no scoring of VPs.
+- Turn 2 onwards, at the end of each Turn, each Controlled Objective is worth 2 VP. Each Contested is worth 1 VP.
+
+If you control 3 Objectives, you get a bonus 6 VP for a total of (6 + 6) 12 VP.
+
+For this mission, it is recommended you play with Secondary Objectives.
+
+### Victory Conditions
+Turn 3 onwards, at the end of each Turn, if one side controls 3 Objectives and has more VPs than the other, that side is the winner and the game ends. Otherwise game ends at Turn 5 and highest VP wins the game, Defender breaks ties.
