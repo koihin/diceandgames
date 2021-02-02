@@ -244,12 +244,19 @@ Turn 3 onwards, at the end of each Turn, if one side controls both yellow Object
 This is a typical mission and map for Zverograd, where many buildings having been reduced to rubble. The 4 Objectives represent control over the area over the course of the game.
 
 ### Size of Game
-This scenario is suitable for Battle to Big Battle size games (80 and up) with 100-120 AP being common. Commanders will need to study the layout carefully to decide what units to bring and anticipate what opposition you will face.
+This scenario is suitable for Battle to Big Battle size games (80 and up) with 100-120 AP being common.
+
+If you play a Big Battle Size game, we recommend the optional Reserves rule below.
+
+Commanders will need to study the layout carefully to decide what units to bring and anticipate what opposition you will face.
 
 ### Deployment
 Attacker units enter board from the blue edge. Defender enter the board from the red edge. Standard deployment rules apply (but can be modified as required by the story).
 
 Due to the environmental challenges of Zverograd, Airborne Units cannot deploy within Range 2 of the enemy deployment zone.
+
+### Reserves (Optional)
+Both Attack and Defender reserve between 30-40% of your Army Points as Reserves. Units in Reserves may enter their deployment edge on Turn 3 provided their owning player controls at least 1 Objective at the end of Turn 2. Otherwise all Reserves enter on Turn 4.
 
 ### Terrain
 The board has 2 buildings as their main features. The 4 Objectives are open spaces, do not provide Cover and do not block Line of Sight nor prevent units from entering or passing through.
