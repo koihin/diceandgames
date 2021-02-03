@@ -256,7 +256,7 @@ Attacker units enter board from the blue edge. Defender enter the board from the
 Due to the environmental challenges of Zverograd, Airborne Units cannot deploy within Range 2 of the enemy deployment zone.
 
 ### Reserves (Optional)
-Both Attack and Defender reserve between 30-40% of your Army Points as Reserves. Units in Reserves may enter their deployment edge on Turn 3 provided their owning player controls at least 1 Objective at the end of Turn 2. Otherwise all Reserves enter on Turn 4.
+Both Attacker and Defender reserve between 30-40% of your Army Points as Reserves. Units in Reserves may enter their deployment edge on Turn 3 provided their owning player controls at least 1 Objective at the end of Turn 2. Otherwise all Reserves enter on Turn 4.
 
 ### Terrain
 The board has 2 buildings as their main features. The 4 Objectives are open spaces, do not provide Cover and do not block Line of Sight nor prevent units from entering or passing through.
