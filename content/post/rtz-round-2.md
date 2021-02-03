@@ -12,7 +12,7 @@ tags: ["dust","rtz","zverograd"]
 {{< figure src="/images/zverograd-round-2-sm.jpg" alt="Zverograd Round 2 Map" link="/images/zverograd-round-2.jpg">}}
 
 ## The story so far...
-Story from Round 1 [here]({{< ref "/post/rtz-round-1" >}}).
+Story from [Round 1]({{< ref "/post/rtz-round-1" >}}).
 
 The second round of conflicts grew in size, where previously platoon-sized skirmishes dominated, now whole companies engaged in battle.
 

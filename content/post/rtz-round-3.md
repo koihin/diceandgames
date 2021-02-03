@@ -12,7 +12,7 @@ tags: ["dust","rtz","zverograd"]
 {{< figure src="/images/zverograd-round-3-sm.jpg" alt="Zverograd Round 3 Map" link="/images/zverograd-round-3.jpg">}}
 
 ## The story so far...
-Story from Round 2 [here]({{< ref "/post/rtz-round-2" >}}).
+Story from [Round 2]({{< ref "/post/rtz-round-2" >}}).
 
 The third round saw no abatement of combat, now company sized battles dominate, entire battalions got deployed to retake districts.
 

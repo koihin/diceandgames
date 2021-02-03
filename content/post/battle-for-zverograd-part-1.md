@@ -73,6 +73,6 @@ On March 9th, the hastily assembled Allied Caspian task force arrived at Zverogr
 
 Now facing attacks on multiple fronts, Zverograd’s embattled SSU forces find themselves in the direst of situations.
 
-*Part 2 [here]({{< ref "post/battle-for-zverograd-part-2">}}).*
+*Go on to [Part 2]({{< ref "post/battle-for-zverograd-part-2">}}).*
 
 *Join the [Return the Zverograd]({{< ref "post/rtz.md" >}}) campaign from any part of the world!*

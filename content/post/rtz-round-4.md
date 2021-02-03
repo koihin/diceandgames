@@ -12,7 +12,7 @@ tags: ["dust","rtz","zverograd"]
 {{< figure src="/images/zverograd-round-4-sm.jpg" alt="Zverograd Round 4 Map" link="/images/zverograd-round-4.jpg">}}
 
 ## The story so far...
-Story from Round 3 [here]({{< ref "/post/rtz-round-3" >}}).
+Story from [Round 3]({{< ref "/post/rtz-round-3" >}}).
 
 With airspace above Zverograd cleared, Round 4 saw the respective air forces of Axis and SSU take full advantage of the situation to airdrop supplies and lend tactical support to battles. The Allies restrict their air support to supply and rescue missions. biding their time.
 
