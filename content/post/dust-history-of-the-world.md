@@ -8,6 +8,8 @@ draft: false
 ## A World in Dust - 1937 to Present Day
 {{< figure src="/images/dust-world-map-sep-1947-sm.jpg" alt="Map of the World 1947" link="/images/dust-world-map-sep-1947-md.jpg">}}
 
+Dust 1947 is set in a uchronic diesel-punk alternate 1947 where World War II rages on. Alien technology has enabled super-weapons, walking tanks and other awe-inspiring machines of destruction.
+
 ### 1937
 July: Japanese forces invade mainland China. World War II starts in Asia.
 
