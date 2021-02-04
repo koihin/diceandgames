@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: "Find out more about Dice & Games"
-featured_image: "/images/randomised-pattern-background.svg"
+featured_image: "/images/turquoise-orange-banner.svg"
 tags: ["dust","tabletop gaming","gaming","wargaming","singapore wargaming","dust 1947"]
 ---
 Dice & Games (D&G) was founded on the vision to bring joy to people through tabletop games. We are a sister site to [Singapore Open Gaming](https://singaporeopengaming.com) (SOG) which has organised many gaming sessions and community events in Singapore for over 15 years.
