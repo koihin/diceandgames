@@ -3,6 +3,7 @@ title: "Dust 1947 - History of the World"
 date: 2021-02-04T03:35:30+08:00
 description: "Dust timeline of significant events from 1937 onwards"
 featured_image: "/images/dust-world-map-sep-1947-sm.jpg"
+tags: ["dust","dust 1947 timeline","missions"]
 draft: false
 ---
 ## A World in Dust - 1937 to Present Day
